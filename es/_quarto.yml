@@ -7,6 +7,7 @@ project:
 website:
   title: "Gustavo Roa"
   navbar:
+    logo-href: indice.qmd
     left:
       - href: indice.qmd
         text: Inicio
@@ -33,7 +34,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-editor: visual
-
-

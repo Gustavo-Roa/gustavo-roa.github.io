@@ -6,6 +6,7 @@ format:
     page-layout: full
 ---
 
+
 :::: {style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;"}
 <img src="profile.jpg" alt="Gustavo Roa" width="180" style="border-radius: 50%; border: 2px solid #ccc;"/>
 
