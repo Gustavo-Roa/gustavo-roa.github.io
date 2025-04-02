@@ -7,9 +7,9 @@ project:
 website:
   title: "Gustavo Roa"
   navbar:
-    logo-href: indice.qmd
+    logo-href: index.qmd
     left:
-      - href: indice.qmd
+      - href: index.qmd
         text: Inicio
       - href: sobre.qmd
         text: Sobre mí
