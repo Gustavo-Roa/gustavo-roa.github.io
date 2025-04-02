@@ -1,5 +1,5 @@
 ---
-title: "Publicaciones y Ponencias"
+title: ""
 format: html
 ---
 

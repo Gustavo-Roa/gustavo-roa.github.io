@@ -1,5 +1,5 @@
 ---
-title: "Enfoque de Investigación"
+title: ""
 format: html
 ---
 

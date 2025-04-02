@@ -1,20 +1,17 @@
 {
-  "indice.qmd": {
-    "indice.html": "0fdf6aa7"
+  "cv.qmd": {
+    "cv.html": "cf49cd75"
   },
-  "cv_es.qmd": {
-    "cv_es.html": "b527429e"
+  "indice.qmd": {
+    "indice.html": "38b760e8"
   },
   "investigacion.qmd": {
-    "investigacion.html": "26e7ac1f"
+    "investigacion.html": "a05881ff"
   },
   "publicaciones.qmd": {
-    "publicaciones.html": "59afe392"
+    "publicaciones.html": "75b5ce8e"
   },
   "sobre.qmd": {
-    "sobre.html": "5bcdfb50"
-  },
-  "cv.qmd": {
-    "cv.html": "1560dbf3"
+    "sobre.html": "90aa483c"
   }
 }
