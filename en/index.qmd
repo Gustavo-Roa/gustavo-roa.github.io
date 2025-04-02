@@ -1,0 +1,30 @@
+---
+title: "Gustavo Roa"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+
+:::: {style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;"}
+<img src="profile.jpg" alt="Gustavo Roa" width="180" style="border-radius: 50%; border: 2px solid #ccc;"/>
+
+::: {style="max-width: 600px;"}
+# 👋 Welcome
+
+I’m **Gustavo Roa**, a Ph.D. candidate in Agronomy at Kansas State University, focusing on soil fertility and nutrient management. My research explores phosphorus (P) and sulfur (S) fertilizer strategies in corn, soybean, wheat, and sorghum using field trials, greenhouse studies, and isotopic tracer techniques (15N). I complement my agronomic training with a strong foundation in apply statistics and data science.
+:::
+::::
+
+------------------------------------------------------------------------
+
+## 🔗 Connect
+
+-   📍 Manhattan, KS, USA\
+-   📧 [groa\@ksu.edu](mailto:groa@ksu.edu)\
+-   [LinkedIn](https://www.linkedin.com/in/g-roa/)\
+-   [X (Twitter)](https://x.com/G_A_Roa)\
+-   [ResearchGate](https://www.researchgate.net/profile/Gustavo-Roa)\
+-   [GitHub](https://github.com/Gustavo-Roa)\
+-   [Curriculum Vitae](cv.qmd)

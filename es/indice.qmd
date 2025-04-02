@@ -1,0 +1,29 @@
+---
+title: "Gustavo Roa"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+:::: {style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;"}
+<img src="profile.jpg" alt="Gustavo Roa" width="180" style="border-radius: 50%; border: 2px solid #ccc;"/>
+
+::: {style="max-width: 600px;"}
+# 👋 Welcome
+
+Soy **Gustavo Roa** candidato a doctorado en Agronomía en la Universidad Estatal de Kansas, con enfoque en fertilidad de suelos y manejo de nutrientes. Mi investigación se centra en estrategias de fertilización con fósforo (P) y azufre (S) en maíz, soya, trigo y sorgo, utilizando ensayos de campo, estudios en invernadero y técnicas de trazadores isotópicos (¹⁵N). Complemento mi formación agronómica con una sólida base en estadística aplicada y ciencia de datos..
+:::
+::::
+
+------------------------------------------------------------------------
+
+## 🔗 Conectar
+
+-   📍 Manhattan, KS, USA\
+-   📧 [groa\@ksu.edu](mailto:groa@ksu.edu)\
+-   [LinkedIn](https://www.linkedin.com/in/g-roa/)\
+-   [X (Twitter)](https://x.com/G_A_Roa)\
+-   [ResearchGate](https://www.researchgate.net/profile/Gustavo-Roa)\
+-   [GitHub](https://github.com/Gustavo-Roa)\
+-   [Curriculum Vitae](cv_es.qmd)

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: ../docs/es
+  render:
+    - "*.qmd"
+
+website:
+  title: "Gustavo Roa"
+  navbar:
+    left:
+      - href: indice.qmd
+        text: Inicio
+      - href: sobre.qmd
+        text: Sobre mí
+      - href: investigacion.qmd
+        text: Investigación y Enseñanza
+      - href: publicaciones.qmd
+        text: Publicaciones y Ponencias
+      - href: cv_es.qmd
+        text: CV
+    right:
+      - text: 🌐 English
+        href: ../en/
+      - text: 🌐 Español
+        href: ../es/
+
+lang: es
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
