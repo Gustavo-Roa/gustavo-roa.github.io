@@ -1,5 +1,5 @@
 ---
-title: "Publications & Talks"
+title: ""
 format: html
 ---
 
@@ -11,29 +11,25 @@ Articles \|  Research Reports \|  Thesis \|  Conferences  \|  Ta
 
 ## Articles
 
-**Roa, G. A.**, & Ruiz Diaz, D.A. (2025). *Evaluation of tissue phosphorus concentrations as diagnostic tool for phosphorus nutrition in corn.* *Soil Science Society of America Journal*, 89, 70031. <https://doi.org/10.1002/saj2.70031>
+- **Roa, G. A.**, & Ruiz Diaz, D.A. (2025). *Evaluation of tissue phosphorus concentrations as diagnostic tool for phosphorus nutrition in corn.* *Soil Science Society of America Journal*, 89, 70031. <https://doi.org/10.1002/saj2.70031>
 
-**Roa, G.A.**, Quintana-Obregón, E.A., González-Renteria, M., Ruiz Diaz, D.A. (2024). *Increasing Wheat Protein and Yield through Sulfur Fertilization and Its Relationship with Nitrogen.* *Nitrogen*, 5(3), 553–571. <https://doi.org/10.3390/nitrogen5030037>
+- **Roa, G.A.**, Quintana-Obregón, E.A., González-Renteria, M., Ruiz Diaz, D.A. (2024). *Increasing Wheat Protein and Yield through Sulfur Fertilization and Its Relationship with Nitrogen.* *Nitrogen*, 5(3), 553–571. <https://doi.org/10.3390/nitrogen5030037>
 
 ------------------------------------------------------------------------
 
 ### Dataset
 
-**Roa, Gustavo**, 2024, "Dataset for meta-analysis on sulfur fertilization effect on wheat protein and yield", https://doi.org/10.7910/DVN/4RLPP1, Harvard Dataverse, V4
+- **Roa, Gustavo**, 2024, "Dataset for meta-analysis on sulfur fertilization effect on wheat protein and yield", https://doi.org/10.7910/DVN/4RLPP1, Harvard Dataverse, V4
 
 ------------------------------------------------------------------------
 
 ### In Progress
 
-**Roa, G.A.**, Ruiz Diaz, D.A. (Accepted, 2025).*Evaluation of Tissue Phosphorus Concentrations as Diagnostic Tool for Phosphorus Nutrition in Corn.* *Soil Science Society of America Journal.*
-
-**Roa, G.A.**, Rutter, E.B., Hettiarachchi, G., Ruiz Diaz, D.A. (Under Review, 2025).*Boron Equilibria in Soils: Mechanisms and Implications for Nutrient Management.* *Journal of Plant Nutrition and Soil Science.*
-
-**Roa, G.A.**, Wanithunga, I., de Oliviera, J.B., Rice, C.W., Ruiz Diaz, D.A. (In Preparation, 2025). *Harnessing 15N Isotopic Tracer Methodology in Agronomy Research: Practical Insights and Case Studies.*
-
-**Roa, G.A.**, Ruiz Diaz, D.A. (In Preparation, 2025).*Assessing Sulfur Response, Utilization Efficiency, and Diagnostic Tools for Corn.* *Agronomy Journal.*
-
-**Roa, G.A.**, Hefley, T.J., Vahl, C.I., Ruiz Diaz, D.A. (In Preparation, 2025).*A Practical Approach to Analyzing Long-Term Agricultural Data Using Linear Mixed and Generalized Additive Models.* *Plant Methods.*
+- **Roa, G.A.**, Ruiz Diaz, D.A. (Accepted, 2025).*Evaluation of Tissue Phosphorus Concentrations as Diagnostic Tool for Phosphorus Nutrition in Corn.* *Soil Science Society of America Journal.*
+- **Roa, G.A.**, Rutter, E.B., Hettiarachchi, G., Ruiz Diaz, D.A. (Under Review, 2025).*Boron Equilibria in Soils: Mechanisms and Implications for Nutrient Management.* *Journal of Plant Nutrition and Soil Science.*
+- **Roa, G.A.**, Wanithunga, I., de Oliviera, J.B., Rice, C.W., Ruiz Diaz, D.A. (In Preparation, 2025). *Harnessing 15N Isotopic Tracer Methodology in Agronomy Research: Practical Insights and Case Studies.*
+- **Roa, G.A.**, Ruiz Diaz, D.A. (In Preparation, 2025).*Assessing Sulfur Response, Utilization Efficiency, and Diagnostic Tools for Corn.* *Agronomy Journal.*
+- **Roa, G.A.**, Hefley, T.J., Vahl, C.I., Ruiz Diaz, D.A. (In Preparation, 2025).*A Practical Approach to Analyzing Long-Term Agricultural Data Using Linear Mixed and Generalized Additive Models.* *Plant Methods.*
 
 ------------------------------------------------------------------------
 

@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: ""
 format: html
 ---
 
-# Gustavo Roa
+# About Me
 
 I’m originally from Manta Potrero, a small town in Paraguay. I began my agricultural career at the San Francisco Agricultural School in Cerrito, Paraguay. Since then, I have earned degrees from EARTH University in Costa Rica, UnADM in Mexico, and Kansas State University in the United States. Along this journey, I have learned from and contributed to a variety of agricultural projects across regions.
 

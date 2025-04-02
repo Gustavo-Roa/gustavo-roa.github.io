@@ -1,5 +1,5 @@
 ---
-title: "Research & Teaching"
+title: ""
 format: html
 ---
 
@@ -7,7 +7,7 @@ format: html
 
 My research integrates field experimentation, greenhouse studies, and isotope tracer techniques to improve fertilizer recommendations and nutrient diagnostics in cropping systems. I work at the intersection of agronomy, soil chemistry, and data science to enhance phosphorus and sulfur use efficiency in corn, soybean, wheat, and sorghum systems in Kansas and beyond.
 
-Current research areas include:
+**Current research areas include:**
 
 -   **Phosphorus Management Strategies**:
     -   Long-term P placement trials (18+ years)
@@ -49,7 +49,7 @@ I believe in making science accessible and meaningful for students and stakehold
 
 ------------------------------------------------------------------------
 
-## Collaboration & Outreach
+# Collaboration & Outreach
 
 -   Strong collaboration with **farmers**, **extension agents**, and **graduate committees** to design and execute trials across \>40 site-years.
 -   Experience writing research proposals (e.g., Kansas Fertilizer Research Fund)

@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: ""
 format: html
 ---
 
@@ -7,4 +7,4 @@ format: html
 
 Puedes descargar mi CV completo en formato PDF aquí:
 
-[Descargar CV (PDF)](CV%20Espa%C3%B1ol%20-%20Gustavo%20Roa.pdf)
+[Descargar CV (PDF)](CV%20Espanol%20-%20Gustavo%20Roa.pdf)

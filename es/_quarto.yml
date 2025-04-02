@@ -16,13 +16,13 @@ website:
         text: Investigación y Enseñanza
       - href: publicaciones.qmd
         text: Publicaciones y Ponencias
-      - href: cv_es.qmd
+      - href: cv.qmd
         text: CV
     right:
-      - text: 🌐 English
-        href: ../en/
       - text: 🌐 Español
         href: ../es/
+      - text: 🌐 English
+        href: ../en/
 
 lang: es
 

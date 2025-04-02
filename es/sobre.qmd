@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: ""
 format: html
 ---
 
-# Gustavo Roa
+# Sobre mí
 
 Soy originario de Manta Potrero, un pequeño pueblo de Paraguay. Comencé mi carrera agrícola en la Escuela Agrícola San Francisco en Cerrito, Paraguay. Desde entonces, he obtenido títulos de la Universidad EARTH en Costa Rica, la UnADM en México y la Universidad Estatal de Kansas en Estados Unidos. A lo largo de esta trayectoria, he aprendido y contribuido a diversos proyectos agrícolas en diferentes regiones.
 
@@ -94,25 +94,15 @@ Cursos (3): Producción de Cultivos, Acceso a los Alimentos y El Valor del Pensa
 ## Liderazgo y Actividades
 
 -   2025-presente: Miembro del Comité de Estudiantes de Posgrado de ASA, CSSA y SSSA (Tri-Societies)
-
 -   2023-2025: Enlace entre el Consejo de Estudiantes de Posgrado (GSC) y la Asociación de Gobierno Estudiantil (SGA) – Kansas State University
-
 -   2024-2025: Representante de Estudiantes de Posgrado ante el Comité de Planificación del College of Agriculture – Kansas State University
-
 -   2023-2024: Miembro del Comité Asesor de Estudiantes de Posgrado del College of Agriculture – Kansas State University
-
 -   2023: Presidente de la Asociación de Estudiantes de Posgrado en Agronomía (AGSA)
-
 -   2023: Representante de Estudiantes de Posgrado en el Comité de Cursos y Currículo del Departamento de Agronomía – Kansas State University
-
 -   2023: Moderador estudiantil en la 78ª Conferencia Internacional Anual de la SWCS – agosto 2023, Des Moines, IA
-
 -   2023: Vicepresidente del capítulo estudiantil de la Sociedad de Conservación de Suelos y Agua (SWCS) – Kansas State University
-
 -   2022: Presidente del Comité de Comunicación Científica de AGSA – Kansas State University
-
 -   2017: Presidente del Comité de Gastronomía de la Feria Multicultural de EARTH – Universidad EARTH
-
 -   2015: Miembro del Tribunal Electoral Estudiantil (TEE) – Universidad EARTH
 
 ------------------------------------------------------------------------
