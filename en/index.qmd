@@ -13,7 +13,7 @@ format:
 ::: {style="max-width: 600px;"}
 # 👋 Welcome
 
-I’m **Gustavo Roa**, a Ph.D. candidate in Agronomy at Kansas State University, focusing on soil fertility and nutrient management. My research explores phosphorus (P) and sulfur (S) fertilizer strategies in corn, soybean, wheat, and sorghum using field trials, greenhouse studies, and isotopic tracer techniques (15N). I complement my agronomic training with a strong foundation in apply statistics and data science.
+I’m **Gustavo Roa**, a Ph.D. candidate in Agronomy at Kansas State University, focusing on soil fertility and nutrient management. My research explores phosphorus and sulfur fertilizer strategies in corn, soybean, wheat, and sorghum using field trials, greenhouse studies, and isotopic tracer techniques (¹⁵N). I complement my agronomic training with a strong foundation in apply statistics and data analysis. 
 :::
 ::::
 

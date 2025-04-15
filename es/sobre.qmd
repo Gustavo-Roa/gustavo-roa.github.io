@@ -5,11 +5,11 @@ format: html
 
 # Sobre mí
 
-Soy originario de Manta Potrero, un pequeño pueblo de Paraguay. Comencé mi carrera agrícola en la Escuela Agrícola San Francisco en Cerrito, Paraguay. Desde entonces, he obtenido títulos de la Universidad EARTH en Costa Rica, la UnADM en México y la Universidad Estatal de Kansas en Estados Unidos. A lo largo de esta trayectoria, he aprendido y contribuido a diversos proyectos agrícolas en diferentes regiones.
+Soy originario de Manta Potrero, un pequeño pueblo de Paraguay. Comencé mi carrera agrícola en la Escuela Agrícola San Francisco en Cerrito, Paraguay. Desde entonces, he obtenido títulos de la Universidad EARTH en Costa Rica, la UnADM en México (En línea) y Kansas State University en Estados Unidos. A lo largo de esta trayectoria, he aprendido y contribuido a diversos proyectos agrícolas en diferentes regiones.
 
 ------------------------------------------------------------------------
 
-## Education
+## Educación
 
 **Ph.D. Candidato en Agronomía – Ciencias del Suelo**\
 *Kansas State University* — Previsto Dic 2025\
@@ -44,17 +44,17 @@ Soy originario de Manta Potrero, un pequeño pueblo de Paraguay. Comencé mi car
 
 ------------------------------------------------------------------------
 
-## Complementary Education
+## Educación complementaria
 
-**Wageningen University & Research (via edX)** – *En linea*\
+**Wageningen University & Research (via edX)** – *En línea*\
 **Certificado Profesional en Producción de Cultivos y Manejo del Suelo** (2025)\
 Cursos (2): Seguridad Alimentaria Sostenible: Producción de Cultivos y Manejo Sostenible del Suelo: El Suelo como Vida
 
-**Harvard University (via edX)** – *En linea*\
+**Harvard University (via edX)** – *En línea*\
 **Certificado Profesional en Ciencia de Datos** (2024)\
 Cursos (9): Fundamentos de R, Visualización, Probabilidad, Inferencia y Modelado, Herramientas de Productividad, Manejo de Datos, Regresión Lineal, Aprendizaje Automático y Proyecto Final
 
-**Wageningen University & Research (via edX)** – *En linea*\
+**Wageningen University & Research (via edX)** – *En línea*\
 **Certificado Profesional y XSeries en Seguridad Alimentaria y Sostenibilidad** (2021)\
 Cursos (3): Producción de Cultivos, Acceso a los Alimentos y El Valor del Pensamiento Sistémico
 
@@ -74,7 +74,7 @@ Cursos (3): Producción de Cultivos, Acceso a los Alimentos y El Valor del Pensa
 
 ### Smithfield Hog Production — *Princeton, MO*
 
-**Pasante de producción (Programa Internacional de Pasantías Ohio)** (May 2018 – Apr 2019)\
+**Pasante de producción (Ohio International Intern Program)** (May 2018 – Apr 2019)\
 - Supported daily swine production operations, health monitoring, and facility upkeep.\
 - Assisted with artificial insemination and farrowing, enhancing animal care protocols.\
 - Recorded growth data to support better farm management and animal welfare practices.
@@ -107,7 +107,7 @@ Cursos (3): Producción de Cultivos, Acceso a los Alimentos y El Valor del Pensa
 
 ------------------------------------------------------------------------
 
-## Professional Memberships
+## Membresías profesionales
 
 -   Sociedad Americana de Agronomía (ASA) – desde 2019 hasta la fecha
 -   Sociedad Americana de Ciencias de Cultivos (CSSA) – desde 2019 hasta la fecha

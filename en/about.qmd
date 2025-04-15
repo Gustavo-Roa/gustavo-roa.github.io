@@ -5,7 +5,7 @@ format: html
 
 # About Me
 
-I’m originally from Manta Potrero, a small town in Paraguay. I began my agricultural career at the San Francisco Agricultural School in Cerrito, Paraguay. Since then, I have earned degrees from EARTH University in Costa Rica, UnADM in Mexico, and Kansas State University in the United States. Along this journey, I have learned from and contributed to a variety of agricultural projects across regions.
+I’m originally from Manta Potrero, a small town in Paraguay. I began my agricultural career at the San Francisco Agricultural School in Cerrito, Paraguay. Since then, I have earned degrees from EARTH University in Costa Rica, UnADM in Mexico (On line), and Kansas State University in the United States. Along this journey, I have learned from and contributed to a variety of agricultural projects across regions.
 
 ------------------------------------------------------------------------
 
@@ -72,13 +72,13 @@ Courses: Crop Production · Food Access · The Value of Systems Thinking
 ### Kansas State University — *Manhattan, KS*
 
 **Research Assistant** (Jul 2019 – Dec 2020)\
-- Assisted with fertility trials, greenhouse experiments, and isotopic studies using 15N tracers.\
+- Assisted with fertility trials, greenhouse experiments, and isotopic studies using ¹⁵N tracers.\
 - Managed sample processing and ensured data accuracy.\
 - Operated research equipment including planting and fertilizer application systems.
 
 ### Smithfield Hog Production — *Princeton, MO*
 
-**production Intern (Ohio Program)** (May 2018 – Apr 2019)\
+**Production Intern (Ohio International Intern Program)** (May 2018 – Apr 2019)\
 - Supported daily swine production operations, health monitoring, and facility upkeep.\
 - Assisted with artificial insemination and farrowing, enhancing animal care protocols.\
 - Recorded growth data to support better farm management and animal welfare practices.

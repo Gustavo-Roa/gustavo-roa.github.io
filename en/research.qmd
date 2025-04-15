@@ -17,7 +17,7 @@ My research integrates field experimentation, greenhouse studies, and isotope tr
     -   Corn response to S across multiple environments
     -   S uptake, efficiency indices, and diagnostic tool validation
     -   Biomass, SPAD, NDVI, and tissue analysis integration
--   **15N Isotopic Tracers in Agronomic Systems**:
+-   **¹⁵N Isotopic Tracers in Agronomic Systems**:
     -   Greenhouse and field trials evaluating fertilizer N recovery
     -   Differentiating N from soil, fertilizer, and atmospheric sources
     -   Contributing to methodological advances and best practices
