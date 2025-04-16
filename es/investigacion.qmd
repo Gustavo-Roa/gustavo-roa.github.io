@@ -22,7 +22,7 @@ Mis áreas de investigación actuales incluyen:
     -   Diferenciación del N proveniente del suelo, fertilizante y fuentes atmosféricas\
     -   Contribución a avances metodológicos y mejores prácticas
 -   **Aplicaciones de Ciencia de Datos y Modelado**:
-    -   Aprendizaje automático (XGBoost, Random Forest) para predicción de nutrientes\
+    -   Aprendizaje automático para predicción de nutrientes\
     -   Árboles de decisión para recomendaciones de fertilización\
     -   Análisis de sensibilidad en modelado de erosión con RUSLE + GEE
 
@@ -54,3 +54,9 @@ Creo en hacer que la ciencia sea accesible y significativa para estudiantes y ac
 -   Sólida colaboración con **productores**, **agentes de extensión** y **comités de posgrado** para diseñar y ejecutar ensayos en más de 40 sitio-años.\
 -   Experiencia en la redacción de propuestas de investigación (por ejemplo, Fondo de Investigación en Fertilizantes de Kansas).\
 -   Dominio del inglés, español, portugués y guaraní, lo que permite interactuar con diversas comunidades en las Américas.
+
+------------------------------------------------------------------------
+
+## Actividades de Revisión por Pares  
+
+- Actúo como revisor para el *Journal of Soil and Water Conservation* (Soil and Water Conservation Society), evaluando manuscritos en fertilidad de suelos, manejo de nutrientes y sistemas agronómicos.

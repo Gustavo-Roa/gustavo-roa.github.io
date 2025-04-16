@@ -22,7 +22,7 @@ My research integrates field experimentation, greenhouse studies, and isotope tr
     -   Differentiating N from soil, fertilizer, and atmospheric sources
     -   Contributing to methodological advances and best practices
 -   **Data Science & Modeling Applications**:
-    -   Machine learning (XGBoost, Random Forest) for nutrient prediction
+    -   Machine learning for nutrient prediction
     -   Decision trees for fertilizer recommendations
     -   Sensitivity analyses in erosion modeling with RUSLE + GEE
 
@@ -54,3 +54,9 @@ I believe in making science accessible and meaningful for students and stakehold
 -   Strong collaboration with **farmers**, **extension agents**, and **graduate committees** to design and execute trials across \>40 site-years.
 -   Experience writing research proposals (e.g., Kansas Fertilizer Research Fund)
 -   Fluent in English, Spanish, Portuguese, and Guarani — enabling engagement across diverse communities in the Americas.
+
+------------------------------------------------------------------------
+
+# Peer-Review Activities
+
+- Serve as a reviewer for the Journal of Soil and Water Conservation (Soil and Water Conservation Society), evaluating submissions in soil fertility, nutrient management, and agronomic systems.

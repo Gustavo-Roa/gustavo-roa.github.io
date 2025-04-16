@@ -35,7 +35,8 @@ I’m originally from Manta Potrero, a small town in Paraguay. I began my agricu
 **Agronomic Engineer (Licenciatura)**\
 *EARTH University, Costa Rica* — 2017\
 - Graduation Project: “Development of a mobile application for the design and sizing of biodigesters”\
-- Advisor: Mildred Linkimer - Distinguished student, fourth-year & best graduation project presentation
+- Advisor: Mildred Linkimer\
+- Distinguished student, fourth-year & best graduation project presentation
 
 **Technical High School Diplomas**\
 *Cerrito’s San Francisco Agricultural School, Paraguay* — 2013\
