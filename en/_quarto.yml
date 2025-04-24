@@ -17,6 +17,8 @@ website:
         text: Research & Teaching
       - href: publications.qmd
         text: Publications & Talks
+      - href: resources.qmd
+        text: Digital Resources
       - href: cv.qmd
         text: CV
     right:

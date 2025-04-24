@@ -17,6 +17,8 @@ website:
         text: Investigación y Enseñanza
       - href: publicaciones.qmd
         text: Publicaciones y Ponencias
+      - href: recursos.qmd
+        text: Recursos Digitales
       - href: cv.qmd
         text: CV
     right:
