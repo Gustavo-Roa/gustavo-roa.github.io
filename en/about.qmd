@@ -1,0 +1,128 @@
+---
+title: ""
+format: html
+---
+
+# About Me
+
+I’m originally from Manta Potrero, a small town in Paraguay. I began my agricultural career at the San Francisco Agricultural School in Cerrito, Paraguay. Since then, I have earned degrees from EARTH University in Costa Rica, UnADM in Mexico (On line), and Kansas State University in the United States. Along this journey, I have learned from and contributed to a variety of agricultural projects across regions.
+
+------------------------------------------------------------------------
+
+## Education
+
+**Ph.D. Candidate in Agronomy - Soil Science**\
+*Kansas State University* — Expected 2025\
+- Dissertation: “Assessing Phosphorus Management Strategies to Enhance Crop Production”\
+- Graduate Certificate in Applied Statistics\
+- Advisor: Dorivar Ruiz Diaz. Committee: Ganga Hettiarachchi, Nathan Nelson, and Christopher Valh
+
+**M.Sc. (Student) in Statistics - Data Science and Analytics**\
+*Kansas State University* — Expected 2025\
+- Report title: “Bayesian Model Averaging Approach to Improve Fertilizer Recommendations”\
+- Advisor: Christopher Valh. Committee: Trevor Hefley, Josefina Lacasa and Dorivar Ruiz Diaz
+
+**M.Sc. in Agronomy - Soil Science**\
+*Kansas State University* — 2023\
+- Thesis: “Evaluating diagnostic tools for phosphorus and sulfur management in corn”\
+- Advisor: Dorivar Ruiz Diaz. Committee: Ganga Hettiarachchi, Nathan Nelson, and Christopher Valh
+
+**Master’s in Food Security**\
+*Open and Distance University of Mexico (UnADM)* — 2020\
+- Thesis: “Application of sulfur in wheat cultivation (Triticum aestivum): its importance for food security”\
+- Advisor: Eber Quintana. Committee: Mariela Gonzalez, Brenda Santiago, and Dafne Orosco
+
+**Agronomic Engineer (Licenciatura)**\
+*EARTH University, Costa Rica* — 2017\
+- Graduation Project: “Development of a mobile application for the design and sizing of biodigesters”\
+- Advisor: Mildred Linkimer\
+- Distinguished student, fourth-year & best graduation project presentation
+
+**Technical High School Diplomas**\
+*Cerrito’s San Francisco Agricultural School, Paraguay* — 2013\
+- Agricultural Production\
+- Hospitality & Tourism
+
+------------------------------------------------------------------------
+
+## Complementary Education
+
+**Wageningen University & Research (via edX)** – *Online*\
+**Professional Certificate in Crop Production and Soil Management** (2025)\
+Courses: Sustainable Food Security: Crop Production · Sustainable Soil Management: Soil for Life
+
+**Harvard University (via edX)** – *Online*\
+**Professional Certificate in Data Science** (2024)\
+Courses: R Basics · Visualization · Probability · Inference and Modeling · Productivity Tools · Wrangling · Linear Regression · Machine Learning · Capstone
+
+**Wageningen University & Research (via edX)** – *Online*\
+**Professional Certificate and XSeries in Food Security and Sustainability** (2021)\
+Courses: Crop Production · Food Access · The Value of Systems Thinking
+
+------------------------------------------------------------------------
+
+## Experience
+
+### Kansas State University — *Manhattan, KS*
+
+**Graduate Research Assistant** (Jan 2021 – Present)\
+- Led multidisciplinary research on phosphorus (P) and sulfur (S) management: calibration, residual P effects, long-term placement, and P & S interactions.\
+- Managed over 40 site-years with farmers and university fields; supervised interns and coordinated nutrient studies on corn, soybean, wheat, and sorghum.\
+- Analyzed datasets and contributed to peer-reviewed publications and conference presentations.
+
+### Kansas State University — *Manhattan, KS*
+
+**Research Assistant** (Jul 2019 – Dec 2020)\
+- Assisted with fertility trials, greenhouse experiments, and isotopic studies using ¹⁵N tracers.\
+- Managed sample processing and ensured data accuracy.\
+- Operated research equipment including planting and fertilizer application systems.
+
+### Smithfield Hog Production — *Princeton, MO*
+
+**Production Intern (Ohio International Intern Program)** (May 2018 – Apr 2019)\
+- Supported daily swine production operations, health monitoring, and facility upkeep.\
+- Assisted with artificial insemination and farrowing, enhancing animal care protocols.\
+- Recorded growth data to support better farm management and animal welfare practices.
+
+### EARTH University — *Costa Rica*
+
+**Undergraduate Research Assistant, CIDER** (Jan 2017 – Dec 2017)\
+- Developed renewable energy projects: biodigesters, solar cooking, desalination, and pumping.\
+- Conducted biodigester research and organized outreach workshops.\
+- Collaborated on sustainable energy systems for rural communities.
+
+### UTA Foundation & REDBIOCOL — *Colombia*
+
+**Student Intern (SEPS Project)** (Aug 2016 – Dec 2016)\
+- Evaluated biodigester biosolids as fertilizer for coffee nurseries.\
+- Installed clean-energy systems and trained rural communities in their use.\
+- Designed and built gasification units for biochar and energy production.
+
+------------------------------------------------------------------------
+
+## Leadership & Service
+
+-   2025-present: Member of the ASA, CSSA, and SSSA (Tri-Societies) Graduate Student Committee
+-   2023-2025: GSC/SGA Liaison (Graduate Student Council) / (Student Governing Association) – Kansas State University
+-   2024-2024: Graduate Student Representative for College of Agriculture Committee on Planning – Kansas State University
+-   2023-2024: Member of the College of Ag Graduate Student Advisory Committee – Kansas State University
+-   2021-2024: Spanish course instructor (Volunteer) – UFM Community Learning Center
+-   2023: President of Agronomy Graduate Student Association (AGSA) – Kansas State University
+-   2023: Graduate Student Representative for the Agronomy Course & Curriculum Committee, Department of Agronomy – Kansas State University
+-   2023: Student moderator program at the 78th SWCS International Annual Conference. August 2023, Des Moines, IA
+-   2023: Vice-president of the Soil and Water Conservation Society, student chapter – Kansas State University
+-   2022: Chair of the Scientific Communication Committee, Agronomy Graduate Student Association (AGSA) – Kansas State University
+-   2017: Chair of the Gastronomy Committee of the EARTH Multicultural Fair - EARTH University
+-   2015: Member of the Student Electoral Tribunal (TEE) - EARTH University
+
+------------------------------------------------------------------------
+
+## Professional Memberships
+
+-   American Society of Agronomy (ASA) since 2019-present
+-   Crop Science Society of America (CSSA) since 2019-present
+-   Soil Science Society of America (SSSA) since 2019-present
+-   Soil and Water Conservation Society (SWCS) since 2022-present
+-   International Society of Precision Agriculture (ISPA) since 2023-present
+
+------------------------------------------------------------------------

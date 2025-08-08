@@ -1,0 +1,18 @@
+# Ignore Quarto output if GitHub Actions is rendering
+docs/
+_site/
+*.html
+
+# Ignore R and RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore Quarto cache
+.quarto/_freeze/
+.quarto/_extensions/
+
+# Ignore renv lock/cache except lockfile
+renv/library/
+renv/staging/
