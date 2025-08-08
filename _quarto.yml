@@ -8,7 +8,13 @@ project:
 
 website:
   title: "Gustavo Roa"
-  navbar: false
+  navbar:
+    left:
+      - text: "English"
+        href: en/index.qmd
+      - text: "Español"
+        href: es/index.qmd
+
 
 format:
   html:
