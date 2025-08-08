@@ -16,3 +16,4 @@ _site/
 # Ignore renv lock/cache except lockfile
 renv/library/
 renv/staging/
+/.quarto/

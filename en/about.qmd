@@ -1,7 +1,6 @@
 ---
-title: "About"
+title: ""
 format: html
-output-file: about/index.html
 ---
 
 # About Me

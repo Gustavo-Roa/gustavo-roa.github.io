@@ -1,7 +1,6 @@
 ---
-title: "Resources"
+title: ""
 format: html
-output-file: resources/index.html
 ---
 
 ## Digital Resources
