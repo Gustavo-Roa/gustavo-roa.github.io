@@ -32,6 +32,6 @@ lang: es
 format:
   html:
     theme:
-      - sandstone
+      - yeti
     css: ../styles.css
     toc: true

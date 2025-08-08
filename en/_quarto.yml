@@ -33,6 +33,6 @@ lang: en
 format:
   html:
     theme:
-      - sandstone
+      - yeti
     css: ../styles.css
     toc: true
