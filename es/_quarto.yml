@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Gustavo Roa"
+  clean-urls: true
   navbar:
     logo-href: index.qmd
     left:
