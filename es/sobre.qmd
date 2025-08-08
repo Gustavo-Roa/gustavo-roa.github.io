@@ -1,0 +1,127 @@
+---
+title: ""
+format: html
+---
+
+# Sobre mí
+
+Soy originario de Manta Potrero, un pequeño pueblo de Paraguay. Comencé mi carrera agrícola en la Escuela Agrícola San Francisco en Cerrito, Paraguay. Desde entonces, he obtenido títulos de la Universidad EARTH en Costa Rica, la UnADM en México (En línea) y Kansas State University en Estados Unidos. A lo largo de esta trayectoria, he aprendido y contribuido a diversos proyectos agrícolas en diferentes regiones.
+
+------------------------------------------------------------------------
+
+## Educación
+
+**Ph.D. Candidato en Agronomía – Ciencias del Suelo**\
+*Kansas State University* — Previsto Mayo 2026\
+- Diplomado en Estadística Aplicada\
+- Disertación: “Evaluación de estrategias de manejo del fósforo para mejorar la producción de cultivos”\
+- Asesor: Dorivar Ruiz Diaz. Comité: Ganga Hettiarachchi, Nathan Nelson, and Christopher Valh
+
+**M.Sc. en Estadística – Especialización en Ciencia de Datos y Análisis**\
+*Kansas State University* — Previsto Dic 2025\
+- Informe: “Enfoque de Promediado de Modelos Bayesianos para Mejorar las Recomendaciones de Fertilizantes”\
+- Asesor: Christopher Valh. Comité: Trevor Hefley, Josefina Lacasa and Dorivar Ruiz Diaz
+
+**M.Sc. en Agronomía – Ciencias del Suelo**\
+*Kansas State University* — 2023\
+- Tesis: “Evaluación de herramientas de diagnóstico para el manejo de fósforo y azufre en maíz”\
+- Asesor: Dorivar Ruiz Diaz. Comité: Ganga Hettiarachchi, Nathan Nelson, and Christopher Valh
+
+**Maestría en Seguridad Alimentaria**\
+*UnADM (Universidad Abierta y a Distancia de México)* — 2020\
+- Título de tesis: “Aplicación de azufre en el cultivo de trigo (Triticum aestivum): Su importancia para la seguridad alimentaria”\
+- Tutor: Eber Quintana. Sinodal: Mariela Gonzalez, Brenda Santiago, and Dafne Orosco
+
+**Licenciatura en Ciencias Agrícolas, título de Ingeniero Agrónomo**\
+*Universidad EARTH, Costa Rica* — 2017\
+- Proyecto de graduación: “Desarrollo de una aplicación móvil para el diseño y dimensionamiento de biodigestores”\
+- Asesora: Mildred Linkimer\
+- Estudiante distinguido de cuarto año y mejor presentación de proyecto de graduación
+
+**Bachiller Técnico**\
+*Escuela Agricola San Francisco de Asis, Paraguay* — 2013\
+- Producción Agropecuaria\
+- Hotelería y Turismo
+
+------------------------------------------------------------------------
+
+## Educación complementaria
+
+**Wageningen University & Research (via edX)** – *En línea*\
+**Certificado Profesional en Producción de Cultivos y Manejo del Suelo** (2025)\
+Cursos (2): Seguridad Alimentaria Sostenible: Producción de Cultivos y Manejo Sostenible del Suelo: El Suelo como Vida
+
+**Harvard University (via edX)** – *En línea*\
+**Certificado Profesional en Ciencia de Datos** (2024)\
+Cursos (9): Fundamentos de R, Visualización, Probabilidad, Inferencia y Modelado, Herramientas de Productividad, Manejo de Datos, Regresión Lineal, Aprendizaje Automático y Proyecto Final
+
+**Wageningen University & Research (via edX)** – *En línea*\
+**Certificado Profesional y XSeries en Seguridad Alimentaria y Sostenibilidad** (2021)\
+Cursos (3): Producción de Cultivos, Acceso a los Alimentos y El Valor del Pensamiento Sistémico
+
+------------------------------------------------------------------------
+
+## Experiencia
+
+### Kansas State University — *Manhattan, KS*
+
+**Asistente de Investigación de Posgrado** (Enero 2021 – Presente)\
+- Lideré equipos multidisciplinarios en investigaciones sobre el manejo de fósforo (P) y azufre (S), incluyendo correlación y calibración de P, efecto residual del P, ubicación a largo plazo y las interacciones entre P y S.\
+- Establecí y gestioné más de 40 sitios-años en colaboración con productores y campos de extensión universitaria, supervisando pasantes y coordinando estudios de manejo de nutrientes en maíz, soja, trigo y sorgo.\
+- Analicé e interpreté datos de investigación, contribuyendo a publicaciones científicas y presentaciones en congresos profesionales.
+
+### Kansas State University — *Manhattan, KS*
+
+**Asistente de Investigación** (Julio 2019 – Diciembre 2020)\
+- Asistí en la instalación y mantenimiento de ensayos de fertilidad, pruebas de productos comerciales y estudios en invernadero, incluyendo el uso de azufre y nitrógeno con trazadores isotópicos de ¹⁵N.\
+- Gestioné el manejo y procesamiento de muestras, asegurando precisión y consistencia en la recolección de datos.\
+- Operé y mantuve equipos de investigación, incluyendo sembradoras, tractores, y equipos para fertilización y aplicación de herbicidas.
+
+### Smithfield Hog Production — *Princeton, MO*
+
+**Pasante de producción (Ohio International Intern Program)** (Mayo 2018 – Abril 2019)\
+- Supported daily swine production operations, health monitoring, and facility upkeep.\
+- Assisted with artificial insemination and farrowing, enhancing animal care protocols.\
+- Recorded growth data to support better farm management and animal welfare practices.
+
+### Universidad EARTH — *Costa Rica*
+
+**Asistente en CIDER (Centro de Investigación y Desarrollo en Energías Renovables)** (Enero 2017 – Diciembre 2017)\
+- Desarrollé e implementé soluciones de energía renovable para comunidades, incluyendo paneles solares, biodigestores pequeños, cocinas solares, desalación de agua y sistemas de bombeo.\
+- Realicé investigaciones sobre biodigestores y apoyé la organización de talleres y eventos educativos sobre tecnologías de energía renovable.\
+- Colaboré con equipos en el diseño y ejecución de proyectos energéticos sostenibles, mejorando el acceso a energía y la sostenibilidad ambiental.
+
+### Fundacion UTA & REDBIOCOL — *Colombia*
+
+**Pasantía Estudiantil en Proyecto de Energía Sostenible (SEPS 2016-2017)** (Agosto 2016 – Diciembre 2016)\
+- Evalué el uso de biosólidos de biodigestores como fertilizante en viveros de café, mejorando la fertilidad del suelo y la productividad.\
+- Instalé y capacité a comunidades rurales en el uso de biodigestores y sistemas de gasificación, además de construir estufas eficientes para mejorar el uso energético.\
+- Evalué subproductos del café para su gasificación y colaboré en el diseño y construcción de unidades de gasificación para producir energía y biocarbón.
+
+------------------------------------------------------------------------
+
+## Liderazgo y Actividades
+
+-   2025-presente: Miembro del Comité de Estudiantes de Posgrado de ASA, CSSA y SSSA (Tri-Societies)
+-   2023-2025: Enlace entre el Consejo de Estudiantes de Posgrado (GSC) y la Asociación de Gobierno Estudiantil (SGA) – Kansas State University
+-   2024-2025: Representante de Estudiantes de Posgrado ante el Comité de Planificación del College of Agriculture – Kansas State University
+-   2023-2024: Miembro del Comité Asesor de Estudiantes de Posgrado del College of Agriculture – Kansas State University
+-   2023: Presidente de la Asociación de Estudiantes de Posgrado en Agronomía (AGSA)
+-   2023: Representante de Estudiantes de Posgrado en el Comité de Cursos y Currículo del Departamento de Agronomía – Kansas State University
+-   2023: Moderador estudiantil en la 78ª Conferencia Internacional Anual de la SWCS – agosto 2023, Des Moines, IA
+-   2023: Vicepresidente del capítulo estudiantil de la Sociedad de Conservación de Suelos y Agua (SWCS) – Kansas State University
+-   2022: Presidente del Comité de Comunicación Científica de AGSA – Kansas State University
+-   2017: Presidente del Comité de Gastronomía de la Feria Multicultural de EARTH – Universidad EARTH
+-   2015: Miembro del Tribunal Electoral Estudiantil (TEE) – Universidad EARTH
+
+------------------------------------------------------------------------
+
+## Membresías profesionales
+
+-   Sociedad Americana de Agronomía (ASA) – desde 2019 hasta la fecha
+-   Sociedad Americana de Ciencias de Cultivos (CSSA) – desde 2019 hasta la fecha
+-   Sociedad Americana de Ciencias del Suelo (SSSA) – desde 2019 hasta la fecha
+-   Sociedad de Conservación de Suelos y Agua (SWCS) – desde 2022 hasta la fecha
+-   Sociedad Internacional de Agricultura de Precisión (ISPA) – desde 2023 hasta la fecha
+
+------------------------------------------------------------------------
