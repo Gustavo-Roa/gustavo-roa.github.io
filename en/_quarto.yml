@@ -1,3 +1,10 @@
+project:
+  type: website
+  output-dir: ../_site/en   
+  render:
+    - "*.qmd"              
+    
+    
 website:
   title: "Gustavo Roa"
   navbar:

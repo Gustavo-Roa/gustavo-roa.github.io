@@ -27,9 +27,23 @@ jobs:
         with:
           cache-version: 1
 
-      - name: Render and Publish
+      # Render the root index page for redirect
+      - name: Render root index
+        run: quarto render index.qmd
+
+      # Render the English sub-project
+      - name: Render English site
+        run: quarto render en/
+
+      # Render the Spanish sub-project
+      - name: Render Spanish site
+        run: quarto render es/
+
+      - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          # We already rendered the site, so skip re-rendering during publish
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
