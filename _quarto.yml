@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: default
+    theme: cosmo
     link-cdn: false   # optional, bundles the CSS locally to avoid the flash of gray
 
 
