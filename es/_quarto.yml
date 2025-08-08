@@ -32,6 +32,6 @@ lang: es
 format:
   html:
     theme:
-      - spacelab
+      - sandstone
     css: ../styles.css
     toc: true

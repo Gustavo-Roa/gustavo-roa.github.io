@@ -33,6 +33,6 @@ lang: en
 format:
   html:
     theme:
-      - spacelab
+      - sandstone
     css: ../styles.css
     toc: true
