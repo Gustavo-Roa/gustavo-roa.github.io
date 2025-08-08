@@ -32,6 +32,6 @@ lang: es
 format:
   html:
     theme:
-      - litera
+      - default
     css: ../styles.css
     toc: true
