@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "CV"
 format: html
+output-file: cv/index.html
 ---
 
 # 📄 Curriculum Vitae

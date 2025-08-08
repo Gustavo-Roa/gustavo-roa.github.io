@@ -7,21 +7,20 @@ project:
     
 website:
   title: "Gustavo Roa"
-  clean-urls: true
   navbar:
     logo-href: index.qmd
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: about/
         text: About
-      - href: research.qmd
+      - href: research/
         text: Research & Teaching
-      - href: publications.qmd
+      - href: publications/
         text: Publications & Talks
-      - href: resources.qmd
+      - href: resources/
         text: Digital Resources
-      - href: cv.qmd
+      - href: cv/
         text: CV
     right:
       - text: 🌐 Español

@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "Publications"
 format: html
+output-file: publications/index.html
 ---
 
 # 📚 Types
