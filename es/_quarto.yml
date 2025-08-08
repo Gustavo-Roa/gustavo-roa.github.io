@@ -32,6 +32,6 @@ lang: es
 format:
   html:
     theme:
-      - cosmo
+      - default
     css: ../styles.css
     toc: true
