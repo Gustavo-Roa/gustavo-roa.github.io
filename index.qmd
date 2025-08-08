@@ -1,7 +1,0 @@
----
-title: ""
-format: html
-page-layout: full
----
-
-<meta http-equiv="refresh" content="0; url=en/index.html">
