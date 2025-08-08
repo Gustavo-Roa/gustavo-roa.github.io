@@ -32,6 +32,6 @@ lang: es
 format:
   html:
     theme:
-      - yeti
+      - litera
     css: ../styles.css
     toc: true

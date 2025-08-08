@@ -18,7 +18,7 @@ website:
 format:
   html:
     theme:
-      - yeti
+      - litera
     link-cdn: false   # optional, bundles the CSS locally to avoid the flash of gray
 
 
