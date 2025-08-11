@@ -1,34 +1,50 @@
 ---
-title: ""
-format: html
+title: "Recursos Digitales"
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
 ---
-
-## Recursos Digitales
 
 ¡Bienvenido a la sección de Recursos! Aquí encontrarás enlaces a mis herramientas interactivas, conjuntos de datos de acceso abierto y materiales descargables.
 
-### Aplicaciones Shiny
+## Aplicaciones Shiny
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+🌾 **FertRecKS**  
+Herramienta de Recomendación de Fertilizantes para Kansas.  
+[Abrir app](https://gustavo-roa.shinyapps.io/KS-Fertilizer-Recommendation-App-R/){.btn .btn-primary .btn-sm}
+:::
+:::
+::::
 
-Interfaces web desarrolladas para apoyar la toma de decisiones en fertilidad de suelos y manejo de nutrientes.
+## Datos Abiertos
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+📂 **Meta-análisis de la fertilización con azufre en trigo**  
+Harvard Dataverse.  
+[DOI](https://doi.org/10.7910/DVN/4RLPP1){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+::::
 
-- **[FertRecKS](https://gustavo-roa.shinyapps.io/KS-Fertilizer-Recommendation-App-R/)** – Herramienta de Recomendación de Fertilizantes para Kansas
+## Herramientas y Código
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+🧪 **XRD-Soil-Mineral-ID**  
+Identificación semicuantitativa de minerales del suelo usando XRD.  
+[Zenodo](https://zenodo.org/records/15882594){.btn .btn-outline-secondary .btn-sm}
+:::
+:::
 
-### Harvard Dataverse
-
-Accede a conjuntos de datos abiertos asociados a mis publicaciones.
-
-- **[Meta-análisis de la Fertilización con Azufre en Trigo](https://doi.org/10.7910/DVN/4RLPP1)**
-
-### Zedono 
-
-- **[XRD-Soil-Mineral-ID](https://zenodo.org/records/15882594)** – Una herramienta para la identificación semicuantitativa de minerales del suelo utilizando datos de XRD
-
-### Repositorios GitHub
-
-Código fuente que respalda mi trabajo.
-
-- **[Gustavo-Roa](https://github.com/Gustavo-Roa)**
-
-### Materiales
-
-Recursos descargables
+::: {.g-col-6}
+::: {.callout}
+💻 **Gustavo-Roa (GitHub)**  
+Repositorios de código que respaldan mi trabajo.  
+[GitHub](https://github.com/Gustavo-Roa){.btn .btn-outline-secondary .btn-sm}
+:::
+:::
+::::

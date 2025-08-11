@@ -1,35 +1,50 @@
 ---
-title: ""
-format: html
+title: "Digital Resources"
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
 ---
-
-## Digital Resources
 
 Welcome to the Resources section! Here you’ll find links to my interactive tools, open-access datasets, and downloadable materials.
 
-### Shiny Apps
+## Shiny Apps
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+🌾 **FertRecKS**  
+Kansas Fertilizer Recommendation Tool.  
+[Open app](https://ksusoiltesting.shinyapps.io/FertRecKS_App-R-v2/){.btn .btn-primary .btn-sm}
+:::
+:::
+::::
 
-Web-based interfaces developed to support decision-making in soil fertility and nutrient management.
+## Open Data
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+📂 **Meta-analysis of S Fertilization in Wheat**  
+Harvard Dataverse.  
+[DOI](https://doi.org/10.7910/DVN/4RLPP1){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+::::
 
-- **[FertRecKS](https://ksusoiltesting.shinyapps.io/FertRecKS_App-R-v2/)** – Kansas Fertilizer Recommendation Tool
+## Tools & Code
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+🧪 **XRD-Soil-Mineral-ID**  
+Semi-quantitative identification of soil minerals using XRD.  
+[Zenodo](https://zenodo.org/records/15882594){.btn .btn-outline-secondary .btn-sm}
+:::
+:::
 
-### Harvard Dataverse
-
-Access open datasets associated with my publications.
-
-- **[Meta-analysis of S Fertilization in Wheat](https://doi.org/10.7910/DVN/4RLPP1)**
-
-### Zedono 
-
-- **[XRD-Soil-Mineral-ID](https://zenodo.org/records/15882594)** – A tool for semi-quantitative identification of soil minerals using XRD data
-
-
-### GitHub Repositories
-
-Source code supporting my work.
-
-- **[Gustavo-Roa](https://github.com/Gustavo-Roa)**
-
-### Materials
-
-Downloadable resources
+::: {.g-col-6}
+::: {.callout}
+💻 **Gustavo-Roa (GitHub)**  
+Code repositories supporting my work.  
+[GitHub](https://github.com/Gustavo-Roa){.btn .btn-outline-secondary .btn-sm}
+:::
+:::
+::::

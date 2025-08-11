@@ -5,11 +5,10 @@ format: html
 
 # 📚 Tipos
 
-Artículos \|  Informes de investigación \|  Tesis \|  Conferencias  \|  Charlas
-
-------------------------------------------------------------------------
+::: {.panel-tabset}
 
 ## Artículos
+### Revisado por pares
 
 • **Roa, G. A.**, & Ruiz Diaz, D.A. (2025). Evaluación de las concentraciones de fósforo en los tejidos como herramienta diagnóstica para la nutrición de fósforo en el maíz \[Ingles\]. Soil Science Society of America Journal, 89, 70031. <https://doi.org/10.1002/saj2.70031>
 
@@ -29,7 +28,6 @@ Artículos \|  Informes de investigación \|  Tesis \|  Conferencias
 • **Roa, G.A.** and Ruiz Diaz, D.A. 2025 (En preparación) Evaluación de la respuesta al azufre, eficiencia de uso y herramientas diagnósticas en maíz \[Ingles\]. Agronomy Journal.\
 • **Roa, G.A.**, Hefley, T.J., Vahl, C.I. and Ruiz Diaz, D.A. 2025 (En preparación) Un enfoque práctico para analizar datos agrícolas de largo plazo utilizando modelos mixtos lineales y aditivos generalizados \[Ingles\]. Plant Methods.
 
-------------------------------------------------------------------------
 
 ## Informes de investigación
 
@@ -38,7 +36,6 @@ Artículos \|  Informes de investigación \|  Tesis \|  Conferencias
 • **Roa-Acosta, G. A.** y Ruiz Díaz, D. A. (2022). “Evaluación de métodos de extracción de fósforo en suelos y análisis de tejido vegetal en maíz.” \[Ingles\] Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. <https://doi.org/10.4148/2378-5977.8347>\
 • **Roa-Acosta, G. A.** y Ruiz Díaz, D. A. (2022). “Respuesta del maíz en etapas tempranas a la aplicación superficial de fertilizante fosfatado antes de la siembra.” \[Ingles\] Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. <https://doi.org/10.4148/2378-5977.8348>
 
-------------------------------------------------------------------------
 
 ## Tesis
 
@@ -46,9 +43,9 @@ Artículos \|  Informes de investigación \|  Tesis \|  Conferencias
 • **Roa Acosta, Gustavo A.** 2024. “Aplicación de azufre en el cultivo de trigo (Triticum aestivum): su importancia para la seguridad alimentaria.”. Maestría en Seguridad Alimentaria, UnADM, México.\
 • **Roa Acosta, G.A.** 2017. “Desarrollo de una aplicación móvil (App) para el diseño y dimensionamiento de biodigestores.”. Proyecto de Graduación, Universidad EARTH, Guácimo, Costa Rica.
 
-------------------------------------------------------------------------
 
-## Pósteres, presentaciones y actas de conferencias
+## Conferencias
+#### Total (14)
 
 • Leiva, J.C., **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Eficiencia de diferentes estrategias de gestión del nitrógeno en la producción de trigo de invierno \[Ingles\]. 2024 Nitrogen Use Efficiency Workshop. Augusto 2024, University of Illinois Urbana Champaign, IL.\
 • **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Mejora de la gestión de nutrientes de fósforo en el maíz mediante análisis de tejidos y herramientas de diagnóstico. ISPA 16th International Conference on Precision Agriculture \[Ingles\]. Julio 2024, Manhattan, KS.\
@@ -66,8 +63,9 @@ Artículos \|  Informes de investigación \|  Tesis \|  Conferencias
 • **Roa, G.A.** and Ruiz Diaz, D.A. (2021). Respuesta del maíz de temporada temprana a la aplicación de fertilizantes de fósforo antes de la siembra en Kansas \[Ingles\]. ASA, CSSA, SSSA International Conference. Noviembre 2021, Salt Lake City, UT.\
 • **Roa, G.A.**, Samudio, L.F., Bonini, C.A., and Ruiz Diaz, D.A. (2020). Propiedades microbianas del suelo con cambios en el pH de la superficie del suelo en un sistema de labranza cero a largo plazo \[Ingles\]. ASA, CSSA, SSSA International Conference. Octubre 2020, Virtual.
 
-------------------------------------------------------------------------
 
 ## Charlas
 
 • **Roa, G.A.** (2024, diciembre 5). Gestión integral de suelos: investigación en fertilización, diagnóstico nutricional y predicción. Orador invitado en la Conmemoración del Día Mundial del Suelo. Organizado por IAAS Paraguay; SOPACIS; Fertimax; and Facultad de Ciencias Agrarias - UNA, Campus San Lorenzo, Paraguay.
+
+:::

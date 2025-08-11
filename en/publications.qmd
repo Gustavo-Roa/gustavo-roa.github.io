@@ -1,15 +1,16 @@
 ---
 title: ""
-format: html
+format:
+  html:
+    toc: false
 ---
 
 # 📚 Types
 
-Articles \|  Research Reports \|  Thesis \|  Conferences  \|  Talks
-
-------------------------------------------------------------------------
+::: {.panel-tabset}
 
 ## Articles
+### Peer-Reviewed
 
 - **Roa, G. A.**, & Ruiz Diaz, D.A. (2025). *Evaluation of tissue phosphorus concentrations as diagnostic tool for phosphorus nutrition in corn.* *Soil Science Society of America Journal*, 89, 70031. <https://doi.org/10.1002/saj2.70031>
 
@@ -29,7 +30,6 @@ Articles \|  Research Reports \|  Thesis \|  Conferences  \|  Ta
 - **Roa, G.A.**, Ruiz Diaz, D.A. (In Preparation, 2025).*Assessing Sulfur Response, Utilization Efficiency, and Diagnostic Tools for Corn.* *Agronomy Journal.*
 - **Roa, G.A.**, Hefley, T.J., Vahl, C.I., Ruiz Diaz, D.A. (In Preparation, 2025).*A Practical Approach to Analyzing Long-Term Agricultural Data Using Linear Mixed and Generalized Additive Models.* *Plant Methods.*
 
-------------------------------------------------------------------------
 
 ## Research Reports
 
@@ -38,7 +38,6 @@ Articles \|  Research Reports \|  Thesis \|  Conferences  \|  Ta
 -   **Roa-Acosta, G. A.** and Ruiz Diaz, D. A. (2022) "Evaluation of Soil Test Phosphorus Extractants and Tissue Analysis for Corn" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. <https://doi.org/10.4148/2378-5977.8347>
 -   **Roa-Acosta, G. A.** and Ruiz Diaz, D. A. (2022) "Early-Season Corn Response to Broadcast Pre-Plant Phosphorus Fertilizer Application," Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. <https://doi.org/10.4148/2378-5977.8348>
 
-------------------------------------------------------------------------
 
 ## Thesis
 
@@ -46,9 +45,10 @@ Articles \|  Research Reports \|  Thesis \|  Conferences  \|  Ta
 -   **Roa Acosta, Gustavo A.** 2024. “Application of sulfur in wheat cultivation (Triticum aestivum): its importance for food security” \[Spanish\]. Master’s in Food Security, UnADM, Mexico.
 -   **Roa Acosta, G.A.** 2017. “Development of a mobile application (App) for the design and sizing of biodigesters” \[Spanish\]. Graduation Project. EARTH University, Guacimo, Costa Rica.
 
-------------------------------------------------------------------------
 
-## Conference Posters, Presentations & Proceedings
+
+## Conferences
+#### Total (14)
 
 -   Leiva, J.C., **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Efficiency of Different Nitrogen Management Strategies on Winter Wheat Production. 2024 Nitrogen Use Efficiency Workshop. August 2024, University of Illinois Urbana Champaign, IL.
 -   **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Enhancing Phosphorus Nutrient Management in Corn Through Tissue Analysis and Diagnostic Tools. ISPA 16th International Conference on Precision Agriculture. July 2024, Manhattan, KS.
@@ -66,8 +66,9 @@ Articles \|  Research Reports \|  Thesis \|  Conferences  \|  Ta
 -   **Roa, G.A.** and Ruiz Diaz, D.A. (2021). Early-season corn response to broadcast pre-plant phosphorus fertilizer application in Kansas. ASA, CSSA, SSSA International Conference. November 2021, Salt Lake City, UT.
 -   **Roa, G.A.**, Samudio, L.F., Bonini, C.A., and Ruiz Diaz, D.A. (2020). Soil microbial properties with changes in surface soil pH in a long-term no-till system. ASA, CSSA, SSSA International Conference. October 2020, Virtual.
 
-------------------------------------------------------------------------
 
 ## Invited Talks
 
 -   **Roa, G.A.** (2024, December 5). Comprehensive soil management: research on fertilization, nutritional diagnostics, and prediction \[Spanish\]. Invited speaker at the World Soil Day Commemoration. Organized by IAAS Paraguay; SOPACIS; Fertimax; and the Faculty of Agricultural Sciences – UNA, San Lorenzo Campus, Paraguay.
+
+:::

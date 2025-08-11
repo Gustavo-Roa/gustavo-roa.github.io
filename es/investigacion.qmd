@@ -1,62 +1,121 @@
 ---
 title: ""
-format: html
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
 ---
 
 # Enfoque de Investigación
 
-Mi investigación integra experimentación de campo, estudios de invernadero y técnicas de trazadores isotópicos para mejorar las recomendaciones de fertilizantes y el diagnóstico de nutrientes en los sistemas de cultivo. Trabajo en la intersección de la agronomía, la química del suelo y la ciencia de datos para optimizar el uso de fósforo y azufre en los sistemas de maíz, soja, trigo y sorgo en Kansas y otros lugares.
+Mi investigación integra experimentación de campo, estudios de invernadero y técnicas de trazadores isotópicos para mejorar las recomendaciones de fertilizantes y el diagnóstico de nutrientes en sistemas de cultivo. Trabajo en la intersección de la agronomía, la química de suelos y la ciencia de datos para optimizar el uso de fósforo y azufre en sistemas de maíz, soja, trigo y sorgo en Kansas y más allá.
 
-Mis áreas de investigación actuales incluyen:
+## En resumen
+:::: {.grid}
+::: {.g-col-3}
+::: {.callout}
+📍 **+40 sitio-años**  
+Ensayos de campo en múltiples localidades de Kansas.
+:::
+:::
+::: {.g-col-3}
+::: {.callout}
+🧪 **Trazadores ¹⁵N**  
+Evaluación de recuperación de N en invernadero y campo.
+:::
+:::
+::: {.g-col-3}
+::: {.callout}
+🧮 **Modelos**  
+Mixtos/GAMs y aprendizaje automático para diagnósticos y recomendaciones.
+:::
+:::
+::: {.g-col-3}
+::: {.callout}
+🌾 **Cultivos**  
+Maíz, soja, trigo, sorgo.
+:::
+:::
+::::
 
--   **Estrategias de Manejo del Fósforo**:
-    -   Ensayos de aplicación de P a largo plazo (más de 18 años)\
-    -   Calibración de análisis de suelo y actualización de niveles críticos para maíz\
-    -   Uso de concentraciones en tejido vegetal para respaldar recomendaciones de P
--   **Nutrición y Diagnóstico de Azufre**:
-    -   Respuesta del maíz al S en múltiples ambientes\
-    -   Absorción de S, índices de eficiencia y validación de herramientas diagnósticas\
-    -   Integración de biomasa, SPAD, NDVI y análisis de tejido
--   **Trazadores Isotópicos ¹⁵N en Sistemas Agronómicos**:
-    -   Ensayos en invernadero y campo para evaluar la recuperación del N fertilizante\
-    -   Diferenciación del N proveniente del suelo, fertilizante y fuentes atmosféricas\
-    -   Contribución a avances metodológicos y mejores prácticas
--   **Aplicaciones de Ciencia de Datos y Modelado**:
-    -   Aprendizaje automático para predicción de nutrientes\
-    -   Árboles de decisión para recomendaciones de fertilización\
-    -   Análisis de sensibilidad en modelado de erosión con RUSLE + GEE
+## Áreas de investigación
+::: {.panel-tabset}
+### Manejo de fósforo
+- Ensayos de aplicación de P a largo plazo (más de 18 años)  
+- Calibración de análisis de suelo y actualización de niveles críticos para maíz  
+- Uso de concentraciones en tejido vegetal para respaldar recomendaciones de P  
 
-------------------------------------------------------------------------
+### Nutrición y diagnóstico de azufre
+- Respuesta del maíz al S en múltiples ambientes  
+- Absorción de S, índices de eficiencia y validación de herramientas diagnósticas  
+- Integración de biomasa, SPAD, NDVI y análisis de tejido  
+
+### Trazadores isotópicos ¹⁵N
+- Ensayos en invernadero y campo para evaluar recuperación del N fertilizante  
+- Diferenciación del N de suelo, fertilizante y fuentes atmosféricas  
+- Avances metodológicos y mejores prácticas  
+
+### Ciencia de datos y modelado
+- Aprendizaje automático para predicción de nutrientes  
+- Árboles de decisión para recomendaciones de fertilización  
+- Análisis de sensibilidad en modelado de erosión (RUSLE + GEE)
+:::
+
+---
 
 # Enseñanza y Mentoría
 
-Creo en hacer que la ciencia sea accesible y significativa para estudiantes y actores clave. Mi experiencia docente abarca la educación formal y la extensión comunitaria:
+Creo en hacer que la ciencia sea accesible y significativa para estudiantes y actores clave. Mi experiencia docente abarca educación formal y extensión comunitaria.
 
--   **Instructor Invitado de Laboratorio** AGRON 305 – Suelos (Otoño 2024) – Kansas State University\
-    Impartí el laboratorio de Manejo de Nutrientes y actualicé el manual correspondiente bajo la supervisión del Dr. Colby Moorberg.
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+📚 **Clase magistral – Tema de nitrógeno (Primavera 2025), K-State**  
+Presentación de 50 minutos sobre manejo de nitrógeno (Dr. Colby Moorberg).
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+👩‍🏫 **Instructor invitado de laboratorio – AGRON 305 (Otoño 2024), K-State**  
+Impartí el laboratorio de Manejo de Nutrientes y actualicé el manual(Dr. Colby Moorberg).
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🌍 **Instructor de español (voluntario) (2021–2024), Centro de Aprendizaje Comunitario UFM**  
+Enseñé clases semanales a más de 30 personas adultas promoviendo intercambio cultural y participación comunitaria.
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🧑‍🔬 **Mentoría a pasantes de pregrado**  
+He supervisado a más de 15 estudiantes en laboratorio y campo, guiándolos en muestreo, análisis y redacción científica.
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🗣️ **Comunicación científica**  
+Dirigí talleres como presidente del Comité de Comunicación Científica (AGSA), mejorando habilidades de presentación y publicación en estudiantes de posgrado.
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🎤 **Participación en conferencias**  
+Moderé sesiones en la Reunión Anual Internacional de SWCS, participé en simposios de ASA-CSSA-SSSA y presento regularmente en conferencias nacionales e internacionales.
+:::
+:::
+::::
 
--   **Instructor de Español (Voluntario)** – Centro de Aprendizaje Comunitario UFM (2021–2024)\
-    Enseñé clases semanales a más de 30 personas adultas promoviendo el intercambio cultural y la participación comunitaria.
+---
 
--   **Mentoría a Pasantes de Pregrado** – Kansas State University\
-    Supervisé a estudiantes en laboratorio y campo, guiándolos en muestreo, análisis y redacción científica.
+# Colaboración y Extensión
 
--   **Comunicación Científica**\
-    Dirigí talleres como presidente del Comité de Comunicación Científica (AGSA), mejorando las habilidades de presentación y publicación de estudiantes de posgrado.
+- Colaboración con **productores**, **agentes de extensión** y **comités de posgrado** para diseñar y ejecutar ensayos en más de 40 sitio-años.  
+- Experiencia en redacción de propuestas de investigación (ej. Fondo de Investigación en Fertilizantes de Kansas).  
+- Dominio de inglés, español, portugués y guaraní, lo que me permite interactuar con comunidades diversas en las Américas.
 
--   **Participación en Conferencias**\
-    Moderé sesiones en la Reunión Anual Internacional de SWCS, participé en simposios de ASA-CSSA-SSSA, y presento regularmente investigaciones en conferencias nacionales e internacionales.
+---
 
-------------------------------------------------------------------------
+# Actividades de revisión por pares
 
-## Colaboración y Extensión
-
--   Sólida colaboración con **productores**, **agentes de extensión** y **comités de posgrado** para diseñar y ejecutar ensayos en más de 40 sitio-años.\
--   Experiencia en la redacción de propuestas de investigación (por ejemplo, Fondo de Investigación en Fertilizantes de Kansas).\
--   Dominio del inglés, español, portugués y guaraní, lo que permite interactuar con diversas comunidades en las Américas.
-
-------------------------------------------------------------------------
-
-## Actividades de Revisión por Pares  
-
-- Actúo como revisor para el *Journal of Soil and Water Conservation* (Soil and Water Conservation Society), evaluando manuscritos en fertilidad de suelos, manejo de nutrientes y sistemas agronómicos.
+- Revisor para *Journal of Soil and Water Conservation* (Soil and Water Conservation Society) en temas de fertilidad de suelos, manejo de nutrientes y sistemas agronómicos.

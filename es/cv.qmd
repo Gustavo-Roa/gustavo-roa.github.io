@@ -1,10 +1,25 @@
 ---
 title: ""
 format: html
+page-layout: full
 ---
 
-# Currículum Vitae
+# 📄 Currículum Vitae
 
-Puedes descargar mi CV completo en formato PDF aquí:
+<p style="font-size: 0.9em; color: #777;">
+  CV ÚLTIMA ACTUALIZACIÓN <br>
+  <strong>8 de agosto de 2025</strong>
+</p>
 
-[Descargar CV (PDF)](CV%20Espanol%20-%20Gustavo%20Roa.pdf)
+<div style="text-align: center; margin-bottom: 1em;">
+  <a class="btn btn-lg btn-primary" 
+     href="CV%20Espanol%20-%20Gustavo%20Roa.pdf" target="_blank">
+    ⬇️ Descargar CV actual
+  </a>
+</div>
+
+<iframe src="CV%20Espanol%20-%20Gustavo%20Roa.pdf#view=FitH" 
+        width="100%" height="1000px" style="border: none;">
+  Este navegador no soporta PDFs. Por favor descarga el archivo para verlo: 
+  <a href="CV%20Espanol%20-%20Gustavo%20Roa.pdf">Descargar PDF</a>.
+</iframe>

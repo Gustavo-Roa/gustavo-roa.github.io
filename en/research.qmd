@@ -1,62 +1,121 @@
 ---
-title: ""
-format: html
+title: "Research & Teaching"
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
 ---
 
 # Research Focus
 
 My research integrates field experimentation, greenhouse studies, and isotope tracer techniques to improve fertilizer recommendations and nutrient diagnostics in cropping systems. I work at the intersection of agronomy, soil chemistry, and data science to enhance phosphorus and sulfur use efficiency in corn, soybean, wheat, and sorghum systems in Kansas and beyond.
 
-**Current research areas include:**
+## At a glance
+:::: {.grid}
+::: {.g-col-3}
+::: {.callout}
+📍 **>40 site-years**  
+Multi-location field trials across Kansas.
+:::
+:::
+::: {.g-col-3}
+::: {.callout}
+🧪 **¹⁵N tracers**  
+Fertilizer N recovery in greenhouse + field.
+:::
+:::
+::: {.g-col-3}
+::: {.callout}
+🧮 **Models**  
+Mixed/GAMs, ML for diagnostics & recs.
+:::
+:::
+::: {.g-col-3}
+::: {.callout}
+🌾 **Crops**  
+Corn, soybean, wheat, sorghum.
+:::
+:::
+::::
 
--   **Phosphorus Management Strategies**:
-    -   Long-term P placement trials (18+ years)
-    -   Soil test calibration and critical level updates for corn
-    -   Use of plant tissue concentrations to support P recommendations
--   **Sulfur Nutrition and Diagnostics**:
-    -   Corn response to S across multiple environments
-    -   S uptake, efficiency indices, and diagnostic tool validation
-    -   Biomass, SPAD, NDVI, and tissue analysis integration
--   **¹⁵N Isotopic Tracers in Agronomic Systems**:
-    -   Greenhouse and field trials evaluating fertilizer N recovery
-    -   Differentiating N from soil, fertilizer, and atmospheric sources
-    -   Contributing to methodological advances and best practices
--   **Data Science & Modeling Applications**:
-    -   Machine learning for nutrient prediction
-    -   Decision trees for fertilizer recommendations
-    -   Sensitivity analyses in erosion modeling with RUSLE + GEE
+## Current research areas
+::: {.panel-tabset}
+### Phosphorus management
+- Long-term P placement trials (18+ years)  
+- Soil test calibration and critical level updates for corn  
+- Plant tissue concentrations to support P recommendations  
 
-------------------------------------------------------------------------
+### Sulfur nutrition & diagnostics
+- Corn response to S across multiple environments  
+- S uptake, efficiency indices, and diagnostic tool validation  
+- Integrating biomass, SPAD, NDVI, and tissue analysis  
+
+### ¹⁵N isotopic tracers
+- Greenhouse and field trials evaluating fertilizer N recovery  
+- Partitioning N from soil, fertilizer, and atmospheric sources  
+- Methodological advances and best practices  
+
+### Data science & modeling
+- ML for nutrient prediction; decision trees for recs  
+- Mixed models and GAMs for long-term data  
+- Sensitivity analyses in erosion modeling (RUSLE + GEE)
+:::
+
+
+---
 
 # Teaching & Mentorship
 
-I believe in making science accessible and meaningful for students and stakeholders. My teaching experience spans formal education and community outreach:
+I aim to make science accessible and useful for students and stakeholders.
 
--   **Guest Lab Instructor** AGRON 305 – Soils (Fall 2024) – Kansas State University\
-    Delivered the Nutrient Management Lab and updated the associated manual under the supervision of Dr. Colby Moorberg.
+:::: {.grid}
+::: {.g-col-6}
+::: {.callout}
+📚 **Guest Lecture – Nitrogen Lecture (Spring 2025), K-State**  
+Delivered a 50-minute presentation on nitrogen management (Dr. Colby Moorberg).
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+👩‍🏫 **Guest Lab Instructor – AGRON 305 (Fall 2024), K-State**  
+Delivered the Nutrient Management Lab and updated the associated manual (Dr. Colby Moorberg).
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🌍 **Spanish Instructor (Volunteer) (2021–2024), UFM Community Learning Center**  
+Taught weekly classes to more than 30 adult learners to promote cultural exchange and community engagement.
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🧑‍🔬 **Mentoring undergraduate interns**  
+Supervised more than 15 students in lab and field settings, guiding them through sampling, analysis, and scientific writing.
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🗣️ **Scientific communication**  
+Led workshops as Chair of the Scientific Communication Committee (AGSA), improving graduate students’ presentation and publishing skills.
+:::
+:::
+::: {.g-col-6}
+::: {.callout}
+🎤 **Conference participation**  
+Moderated sessions at the SWCS International Annual Meeting, participated in ASA-CSSA-SSSA symposia, and regularly present research at national and international conferences.
+:::
+:::
+::::
 
--   **Spanish Instructor (Volunteer)** – UFM Community Learning Center (2021–2024)\
-    Taught weekly classes to more than 30 adult learners to promote cultural exchange and community engagement.
-
--   **Mentoring Undergraduate Interns** – Kansas State University\
-    Supervised students in lab and field settings, guiding them through sampling, analysis, and scientific writing.
-
--   **Scientific Communication**\
-    Led workshops as Chair of the Scientific Communication Committee (AGSA), improving graduate students' presentation and publishing skills.
-
--   **Conference Participation**\
-    Moderated sessions at the SWCS International Annual Meeting, participated in ASA-CSSA-SSSA symposia, and regularly present research at national and international conferences.
-
-------------------------------------------------------------------------
 
 # Collaboration & Outreach
 
--   Strong collaboration with **farmers**, **extension agents**, and **graduate committees** to design and execute trials across \>40 site-years.
--   Experience writing research proposals (e.g., Kansas Fertilizer Research Fund)
--   Fluent in English, Spanish, Portuguese, and Guarani — enabling engagement across diverse communities in the Americas.
+- Work with **farmers**, **extension agents**, and **graduate committees** to design and execute trials across **>40 site-years**.  
+- Experience writing competitive proposals (e.g., Kansas Fertilizer Research Fund).  
+- Fluent in **English, Spanish, Portuguese, Guarani** for engagement across the Americas.
 
-------------------------------------------------------------------------
+---
 
-# Peer-Review Activities
+# Peer-review activities
 
-- Serve as a reviewer for the Journal of Soil and Water Conservation (Soil and Water Conservation Society), evaluating submissions in soil fertility, nutrient management, and agronomic systems.
+- Reviewer, *Journal of Soil and Water Conservation* (soil fertility, nutrient management, agronomic systems).
