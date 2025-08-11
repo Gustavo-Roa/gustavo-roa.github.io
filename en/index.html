@@ -136,19 +136,84 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Gustavo Roa</h1>
+</div>
 
 
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
 <p><img src="profile.jpg" alt="Gustavo Roa" width="180" style="border-radius: 50%; border: 2px solid #ccc;"></p>
 <section id="welcome" class="level1" style="max-width: 600px;">
 <h1>👋 Welcome</h1>
-<p>I’m <strong>Gustavo Roa</strong>, a Ph.D.&nbsp;candidate in Agronomy at Kansas State University, focusing on soil fertility and nutrient management. My research explores phosphorus and sulfur fertilizer strategies in corn, soybean, wheat, and sorghum using field trials, greenhouse studies, and isotopic tracer techniques (¹⁵N). I complement my agronomic training with a strong foundation in apply statistics and data analysis.</p>
+<p>I’m <strong>Gustavo Roa</strong>, a Ph.D.&nbsp;candidate in Agronomy at Kansas State University, focusing on soil fertility and nutrient management. My research explores phosphorus and sulfur fertilizer strategies in corn, soybean, wheat, and sorghum using field trials, greenhouse studies, and isotopic tracer techniques (¹⁵N). I complement my agronomic training with a strong foundation in applied statistics and data analysis.</p>
+<p><a href="./publications.html" class="btn btn-primary me-2">Publications</a> <a href="./resources.html" class="btn btn-outline-primary me-2">Digital Resources</a> <a href="./cv.html" class="btn btn-outline-secondary">CV</a></p>
 </section>
 </div>
 <hr>
+<section id="featured" class="level2">
+<h2 class="anchored" data-anchor-id="featured">Featured</h2>
+<div class="grid">
+<div class="g-col-4">
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>📄 <strong>Latest paper</strong><br>
+Evaluation of tissue P concentration as a diagnostic tool in corn.<br>
+<a href="./publications.html" class="btn btn-sm btn-outline-primary">See publications</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-4">
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>🛠️ <strong>FertRecKS</strong><br>
+Kansas fertilizer recommendation app.<br>
+<a href="https://ksusoiltesting.shinyapps.io/FertRecKS_App-R-v2/" class="btn btn-sm btn-outline-primary">Open app</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-4">
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>📂 <strong>Open data</strong><br>
+Meta-analysis of S fertilization in wheat (Dataverse).<br>
+<a href="https://doi.org/10.7910/DVN/4RLPP1" class="btn btn-sm btn-outline-primary">DOI</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr>
+</section>
 <section id="connect" class="level2">
 <h2 class="anchored" data-anchor-id="connect">🔗 Connect</h2>
 <ul>
@@ -156,12 +221,9 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>📧 <a href="mailto:groa@ksu.edu">groa@ksu.edu</a><br>
 </li>
-<li><a href="https://www.linkedin.com/in/g-roa/">LinkedIn</a><br>
-</li>
-<li><a href="https://x.com/G_A_Roa">X (Twitter)</a><br>
-</li>
-<li><a href="https://www.researchgate.net/profile/Gustavo-Roa">ResearchGate</a><br>
-</li>
+<li><a href="https://www.linkedin.com/in/g-roa/">LinkedIn</a></li>
+<li><a href="https://x.com/G_A_Roa">X</a></li>
+<li><a href="https://www.researchgate.net/profile/Gustavo-Roa">ResearchGate</a></li>
 <li><a href="https://github.com/Gustavo-Roa">GitHub</a><br>
 </li>
 <li><a href="./cv.html">Curriculum Vitae</a></li>
@@ -257,6 +319,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

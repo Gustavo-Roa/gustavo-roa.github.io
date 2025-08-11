@@ -161,23 +161,69 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="profile.jpg" alt="Gustavo Roa" width="180" style="border-radius: 50%; border: 2px solid #ccc;"></p>
 <section id="bienvenido" class="level1" style="max-width: 600px;">
 <h1>👋 Bienvenido</h1>
-<p>Soy <strong>Gustavo Roa</strong> candidato a doctorado en Agronomía en Kansas State University, con enfoque en fertilidad de suelos y manejo de nutrientes. Mi investigación se centra en estrategias de fertilización con fósforo y azufre en maíz, soja, trigo y sorgo, utilizando ensayos de campo, estudios en invernadero y técnicas de trazadores isotópicos (¹⁵N). Complemento mi formación agronómica con una sólida base en estadística aplicada y análisis de datos.</p>
+<p>Soy <strong>Gustavo Roa</strong>, candidato a doctorado en Agronomía en la Universidad Estatal de Kansas, enfocado en la fertilidad de suelos y el manejo de nutrientes. Mi investigación explora estrategias de fertilización con fósforo y azufre en maíz, soja, trigo y sorgo, mediante ensayos de campo, estudios en invernadero y técnicas de trazadores isotópicos (¹⁵N). Complemento mi formación agronómica con una sólida base en estadística aplicada y análisis de datos.</p>
+<p><a href="./publicaciones.html" class="btn btn-primary me-2">Publicaciones</a> <a href="./recursos.html" class="btn btn-outline-primary me-2">Recursos Digitales</a> <a href="./cv.html" class="btn btn-outline-secondary">CV</a></p>
 </section>
 </div>
 <hr>
+<section id="destacados" class="level2">
+<h2 class="anchored" data-anchor-id="destacados">Destacados</h2>
+<div class="grid">
+<div class="g-col-4">
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>📄 <strong>Último artículo</strong><br>
+Evaluación de la concentración de P en tejido como herramienta de diagnóstico en maíz.<br>
+<a href="./publicaciones.html" class="btn btn-sm btn-outline-primary">Ver publicaciones</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-4">
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>🛠️ <strong>FertRecKS</strong><br>
+Aplicación para recomendaciones de fertilización en Kansas.<br>
+<a href="https://ksusoiltesting.shinyapps.io/FertRecKS_App-R-v2/" class="btn btn-sm btn-outline-primary">Abrir app</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-4">
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>📂 <strong>Datos abiertos</strong><br>
+Meta-análisis de la fertilización con azufre en trigo (Dataverse).<br>
+<a href="https://doi.org/10.7910/DVN/4RLPP1" class="btn btn-sm btn-outline-primary">DOI</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr>
+</section>
 <section id="conectar" class="level2">
 <h2 class="anchored" data-anchor-id="conectar">🔗 Conectar</h2>
 <ul>
-<li>📍 Manhattan, KS, USA<br>
+<li>📍 Manhattan, KS, EE. UU.<br>
 </li>
 <li>📧 <a href="mailto:groa@ksu.edu">groa@ksu.edu</a><br>
 </li>
-<li><a href="https://www.linkedin.com/in/g-roa/">LinkedIn</a><br>
-</li>
-<li><a href="https://x.com/G_A_Roa">X (Twitter)</a><br>
-</li>
-<li><a href="https://www.researchgate.net/profile/Gustavo-Roa">ResearchGate</a><br>
-</li>
+<li><a href="https://www.linkedin.com/in/g-roa/">LinkedIn</a></li>
+<li><a href="https://x.com/G_A_Roa">X</a></li>
+<li><a href="https://www.researchgate.net/profile/Gustavo-Roa">ResearchGate</a></li>
 <li><a href="https://github.com/Gustavo-Roa">GitHub</a><br>
 </li>
 <li><a href="./cv.html">Curriculum Vitae</a></li>
@@ -273,6 +319,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
