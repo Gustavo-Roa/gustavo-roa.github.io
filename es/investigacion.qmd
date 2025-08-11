@@ -27,7 +27,7 @@ Evaluación de recuperación de N en invernadero y campo.
 ::: {.g-col-3}
 ::: {.callout}
 🧮 **Modelos**  
-Mixtos/GAMs y aprendizaje automático para diagnósticos y recomendaciones.
+Bayesian, Mixtos/GAMs y ML para diagnósticos y recomendaciones.
 :::
 :::
 ::: {.g-col-3}
@@ -56,9 +56,10 @@ Maíz, soja, trigo, sorgo.
 - Avances metodológicos y mejores prácticas  
 
 ### Ciencia de datos y modelado
-- Aprendizaje automático para predicción de nutrientes  
-- Árboles de decisión para recomendaciones de fertilización  
-- Análisis de sensibilidad en modelado de erosión (RUSLE + GEE)
+- Estadística bayesiana para mejorar las recomendaciones de fertilización  
+- Aprendizaje automático para la predicción de nutrientes; árboles de decisión para recomendaciones  
+- Modelos mixtos y GAM para datos de largo plazo  
+- Análisis de sensibilidad en el modelado de erosión (RUSLE + GEE)
 :::
 
 ---
@@ -70,7 +71,7 @@ Creo en hacer que la ciencia sea accesible y significativa para estudiantes y ac
 :::: {.grid}
 ::: {.g-col-6}
 ::: {.callout}
-📚 **Clase magistral – Tema de nitrógeno (Primavera 2025), K-State**  
+📚 **Clase magistral – Tema de nitrógeno – AGRON 205 (Primavera 2025), K-State**  
 Presentación de 50 minutos sobre manejo de nitrógeno (Dr. Colby Moorberg).
 :::
 :::
@@ -89,8 +90,7 @@ Enseñé clases semanales a más de 30 personas adultas promoviendo intercambio 
 ::: {.g-col-6}
 ::: {.callout}
 🧑‍🔬 **Mentoría a pasantes de pregrado**  
-He supervisado a más de 15 estudiantes en laboratorio y campo, guiándolos en muestreo, análisis y redacción científica.
-:::
+Supervisé y formé a más de 15 estudiantes en entornos de laboratorio y campo, con énfasis en muestreo, recolección de datos y métodos de investigación agronómica aplicada.
 :::
 ::: {.g-col-6}
 ::: {.callout}

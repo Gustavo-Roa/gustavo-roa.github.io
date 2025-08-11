@@ -27,7 +27,7 @@ Fertilizer N recovery in greenhouse + field.
 ::: {.g-col-3}
 ::: {.callout}
 🧮 **Models**  
-Mixed/GAMs, ML for diagnostics & recs.
+Bayesian, Mixed/GAMs, ML for diagnostics & recs.
 :::
 :::
 ::: {.g-col-3}
@@ -56,6 +56,7 @@ Corn, soybean, wheat, sorghum.
 - Methodological advances and best practices  
 
 ### Data science & modeling
+- Bayesian statistics to improve fertilizer recommendations  
 - ML for nutrient prediction; decision trees for recs  
 - Mixed models and GAMs for long-term data  
 - Sensitivity analyses in erosion modeling (RUSLE + GEE)
@@ -66,12 +67,12 @@ Corn, soybean, wheat, sorghum.
 
 # Teaching & Mentorship
 
-I aim to make science accessible and useful for students and stakeholders.
+I believe in making science accessible and meaningful for students and stakeholders. My teaching experience spans both formal education and community outreach.
 
 :::: {.grid}
 ::: {.g-col-6}
 ::: {.callout}
-📚 **Guest Lecture – Nitrogen Lecture (Spring 2025), K-State**  
+📚 **Guest Lecture – Nitrogen Lecture – AGRON 205 (Spring 2025), K-State**  
 Delivered a 50-minute presentation on nitrogen management (Dr. Colby Moorberg).
 :::
 :::
@@ -90,7 +91,7 @@ Taught weekly classes to more than 30 adult learners to promote cultural exchang
 ::: {.g-col-6}
 ::: {.callout}
 🧑‍🔬 **Mentoring undergraduate interns**  
-Supervised more than 15 students in lab and field settings, guiding them through sampling, analysis, and scientific writing.
+Supervised and trained more than 15 students in lab and field settings, focusing on sampling, data collection, and applied agronomic research methods.
 :::
 :::
 ::: {.g-col-6}
