@@ -16,8 +16,8 @@ format:
 
 Soy **Gustavo Roa**, candidato a doctorado en Agronomía en la Universidad Estatal de Kansas, enfocado en la fertilidad de suelos y el manejo de nutrientes. Mi investigación explora estrategias de fertilización con fósforo y azufre en maíz, soja, trigo y sorgo, mediante ensayos de campo, estudios en invernadero y técnicas de trazadores isotópicos (¹⁵N). Complemento mi formación agronómica con una sólida base en estadística aplicada y análisis de datos.
 
-[Publicaciones](publications.qmd){.btn .btn-primary .me-2}
-[Recursos Digitales](resources.qmd){.btn .btn-outline-primary .me-2}
+[Publicaciones](publicaciones.qmd){.btn .btn-primary .me-2}
+[Recursos Digitales](recursos.qmd){.btn .btn-outline-primary .me-2}
 [CV](cv.qmd){.btn .btn-outline-secondary}
 :::
 ::::
@@ -30,7 +30,7 @@ Soy **Gustavo Roa**, candidato a doctorado en Agronomía en la Universidad Estat
 ::: {.callout}
 📄 **Último artículo**  
 Evaluación de la concentración de P en tejido como herramienta de diagnóstico en maíz.  
-[Ver publicaciones](publications.qmd){.btn .btn-sm .btn-outline-primary}
+[Ver publicaciones](publicaciones.qmd){.btn .btn-sm .btn-outline-primary}
 :::
 :::
 ::: {.g-col-4}
