@@ -7,10 +7,11 @@ format:
     link-external-newwindow: true
 ---
 
-:::: {style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;"}
-<img src="profile.jpg" alt="Gustavo Roa" width="180" style="border-radius: 50%; border: 2px solid #ccc;"/>
+:::: {style="display:flex; align-items:center; gap:2rem; flex-wrap:wrap;"}
+<img src="profile.jpg" alt="Gustavo Roa" width="180"
+     style="border-radius:50%; border:2px solid #ccc; height:auto;"/>
 
-::: {style="max-width: 600px;"}
+::: {style="max-width:600px; width:100%;"}
 
 # 👋 Bienvenido
 
@@ -26,21 +27,21 @@ Soy **Gustavo Roa**, candidato a doctorado en Agronomía en la Universidad Estat
 
 ## Destacados
 :::: {.grid}
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.callout}
 📄 **Último artículo**  
 Evaluación de la concentración de P en tejido como herramienta de diagnóstico en maíz.  
 [Ver publicaciones](publicaciones.qmd){.btn .btn-sm .btn-outline-primary}
 :::
 :::
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.callout}
 🛠️ **FertRecKS**  
 Aplicación para recomendaciones de fertilización en Kansas.  
 [Abrir app](https://ksusoiltesting.shinyapps.io/FertRecKS_App-R-v2/){.btn .btn-sm .btn-outline-primary}
 :::
 :::
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.callout}
 📂 **Datos abiertos**  
 Meta-análisis de la fertilización con azufre en trigo (Dataverse).  

@@ -12,31 +12,35 @@ My research integrates field experimentation, greenhouse studies, and isotope tr
 
 ## At a glance
 :::: {.grid}
-::: {.g-col-3}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 📍 **>40 site-years**  
 Multi-location field trials across Kansas.
 :::
 :::
-::: {.g-col-3}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 🧪 **¹⁵N tracers**  
 Fertilizer N recovery in greenhouse + field.
 :::
 :::
-::: {.g-col-3}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 🧮 **Models**  
-Bayesian, Mixed/GAMs, ML for diagnostics & recs.
+Bayesian, mixed/GAMs, ML for diagnostics & recs.
 :::
 :::
-::: {.g-col-3}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 🌾 **Crops**  
 Corn, soybean, wheat, sorghum.
 :::
 :::
 ::::
+
 
 ## Current research areas
 ::: {.panel-tabset}

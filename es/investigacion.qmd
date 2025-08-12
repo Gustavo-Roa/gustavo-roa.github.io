@@ -12,25 +12,28 @@ Mi investigación integra experimentación de campo, estudios de invernadero y t
 
 ## En resumen
 :::: {.grid}
-::: {.g-col-3}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 📍 **+40 sitio-años**  
 Ensayos de campo en múltiples localidades de Kansas.
 :::
 :::
-::: {.g-col-3}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 🧪 **Trazadores ¹⁵N**  
 Evaluación de recuperación de N en invernadero y campo.
 :::
 :::
-::: {.g-col-3}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 🧮 **Modelos**  
 Bayesian, Mixtos/GAMs y ML para diagnósticos y recomendaciones.
 :::
 :::
-::: {.g-col-3}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 ::: {.callout}
 🌾 **Cultivos**  
 Maíz, soja, trigo, sorgo.
@@ -39,6 +42,7 @@ Maíz, soja, trigo, sorgo.
 ::::
 
 ## Áreas de investigación
+
 ::: {.panel-tabset}
 ### Manejo de fósforo
 - Ensayos de aplicación de P a largo plazo (más de 18 años)  
@@ -75,22 +79,26 @@ Creo en hacer que la ciencia sea accesible y significativa para estudiantes y ac
 Presentación de 50 minutos sobre manejo de nitrógeno (Dr. Colby Moorberg).
 :::
 :::
+
 ::: {.g-col-6}
 ::: {.callout}
 👩‍🏫 **Instructor invitado de laboratorio – AGRON 305 (Otoño 2024), K-State**  
 Impartí el laboratorio de Manejo de Nutrientes y actualicé el manual(Dr. Colby Moorberg).
 :::
 :::
+
 ::: {.g-col-6}
 ::: {.callout}
 🌍 **Instructor de español (voluntario) (2021–2024), Centro de Aprendizaje Comunitario UFM**  
 Enseñé clases semanales a más de 30 personas adultas promoviendo intercambio cultural y participación comunitaria.
 :::
 :::
+
 ::: {.g-col-6}
 ::: {.callout}
 🧑‍🔬 **Mentoría a pasantes de pregrado**  
 Supervisé y formé a más de 15 estudiantes en entornos de laboratorio y campo, con énfasis en muestreo, recolección de datos y métodos de investigación agronómica aplicada.
+:::
 :::
 ::: {.g-col-6}
 ::: {.callout}
@@ -119,3 +127,5 @@ Moderé sesiones en la Reunión Anual Internacional de SWCS, participé en simpo
 # Actividades de revisión por pares
 
 - Revisor para *Journal of Soil and Water Conservation* (Soil and Water Conservation Society) en temas de fertilidad de suelos, manejo de nutrientes y sistemas agronómicos.
+
+
