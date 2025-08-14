@@ -92,18 +92,21 @@ Delivered the Nutrient Management Lab and updated the associated manual (Dr. Col
 Taught weekly classes to more than 30 adult learners to promote cultural exchange and community engagement.
 :::
 :::
+
 ::: {.g-col-6}
 ::: {.callout}
 🧑‍🔬 **Mentoring undergraduate interns**  
 Supervised and trained more than 15 students in lab and field settings, focusing on sampling, data collection, and applied agronomic research methods.
 :::
 :::
+
 ::: {.g-col-6}
 ::: {.callout}
 🗣️ **Scientific communication**  
 Led workshops as Chair of the Scientific Communication Committee (AGSA), improving graduate students’ presentation and publishing skills.
 :::
 :::
+
 ::: {.g-col-6}
 ::: {.callout}
 🎤 **Conference participation**  
