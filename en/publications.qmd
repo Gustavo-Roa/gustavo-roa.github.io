@@ -26,17 +26,19 @@ format:
 
 ### In Progress
 
+- **Roa, G.A.**, Ruiz Diaz, D.A. (Under-review, 2025).*Assessing Corn Response to Sulfur Fertilization in Kansas: Efficiency, Optimum Rate, and Diagnostic Tools* *Agronomy Journal.*
 - **Roa, G.A.**, Wanithunga, I., de Oliviera, J.B., Rice, C.W., Ruiz Diaz, D.A. (In Preparation, 2025). *Harnessing ¹⁵N Isotopic Tracer Methodology in Agronomy Research: Practical Insights and Case Studies.*
-- **Roa, G.A.**, Ruiz Diaz, D.A. (In Preparation, 2025).*Assessing Sulfur Response, Utilization Efficiency, and Diagnostic Tools for Corn.* *Agronomy Journal.*
-- **Roa, G.A.**, Hefley, T.J., Vahl, C.I., Ruiz Diaz, D.A. (In Preparation, 2025).*A Practical Approach to Analyzing Long-Term Agricultural Data Using Linear Mixed and Generalized Additive Models.* *Plant Methods.*
 
 
-## Research Reports
 
--   **Roa, Gustavo A.** and Ruiz Diaz, Dorivar A. (2023) "Evaluating the Impact of Long-Term Phosphorus Placement on Corn and Soybean Rotation under Minimum Tillage System," Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. <https://doi.org/10.4148/2378-5977.8545>
--   **Roa, Gustavo A.**; Rutter, Edmond B.; and Ruiz Diaz, Dorivar A. (2023) "Evaluation of Plant Tissue Analysis to Assess Phosphorus Nutritional Status for Corn and Soybean," Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. <https://doi.org/10.4148/2378-5977.8548>
--   **Roa-Acosta, G. A.** and Ruiz Diaz, D. A. (2022) "Evaluation of Soil Test Phosphorus Extractants and Tissue Analysis for Corn" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. <https://doi.org/10.4148/2378-5977.8347>
--   **Roa-Acosta, G. A.** and Ruiz Diaz, D. A. (2022) "Early-Season Corn Response to Broadcast Pre-Plant Phosphorus Fertilizer Application," Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. <https://doi.org/10.4148/2378-5977.8348>
+## Extension and Outreach Publications
+
+- Xin, X., Nepal, J., de Oliveira, J. **Roa, G.**, Cominelli, S., and Maryam, H. 2025. “Managing soil N for productivity and sustainability: Understanding gains and losses” CSA News, Vol. 70(12), November.
+- Cruz, P., de Oliveira, J., Barra Netto-Ferreira, J., **Roa, G.A.**, Gadhiparti, V. 2025. “Rooted in Resilience: Regenerative Agriculture and the Future of Food Systems” CSA News, Vol. 70(8), August. 
+- **Roa, G.A.** and Ruiz Diaz, Dorivar A. (2023) "Evaluating the Impact of Long-Term Phosphorus Placement on Corn and Soybean Rotation under Minimum Tillage System" Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. https://doi.org/10.4148/2378-5977.8545 
+- **Roa, G.A.**; Rutter, Edmond B.; and Ruiz Diaz, Dorivar A. (2023) "Evaluation of Plant Tissue Analysis to Assess Phosphorus Nutritional Status for Corn and Soybean" Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. https://doi.org/10.4148/2378-5977.8548 
+- **Roa-Acosta, G.A.** and Ruiz Diaz, D. A. (2022) "Evaluation of Soil Test Phosphorus Extractants and Tissue Analysis for Corn" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. https://doi.org/10.4148/2378-5977.8347 
+- **Roa-Acosta, G.A.** and Ruiz Diaz, D. A. (2022) "Early-Season Corn Response to Broadcast Pre-Plant Phosphorus Fertilizer Application" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. https://doi.org/10.4148/2378-5977.8348 
 
 
 ## Thesis
@@ -48,8 +50,11 @@ format:
 
 
 ## Conferences
-#### Total (14)
+#### Total (17)
 
+-   **Roa, G.A.**, and Ruiz Diaz, D.A. (2025). Critical Soil Test Phosphorus for Corn: Updates and Method Comparison in Kansas. 55th North Central Soil Fertility Conference. November 2025, Des Moines, IA.
+-   **Roa, G.A.**, Spooner, J., Hefley, T. and Ruiz Diaz, D.A. (2025). Improving Phosphorus Correlation and Calibration Studies with Bayesian Approaches.  CANVAS. November 2025, Salt Lake City, UT.
+-   **Roa, G.A.**, and Ruiz Diaz, D.A. (2025). Refining Soil Test Phosphorus Recommendations for Corn in Kansas. CANVAS. November 2025, Salt Lake City, UT.
 -   Leiva, J.C., **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Efficiency of Different Nitrogen Management Strategies on Winter Wheat Production. 2024 Nitrogen Use Efficiency Workshop. August 2024, University of Illinois Urbana Champaign, IL.
 -   **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Enhancing Phosphorus Nutrient Management in Corn Through Tissue Analysis and Diagnostic Tools. ISPA 16th International Conference on Precision Agriculture. July 2024, Manhattan, KS.
 -   **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Evaluation of Long-Term Phosphorus Management: An 18-Year Field Study. SSSA Bouyoucos Summer Conference. June 2024, San Juan, Puerto Rico.

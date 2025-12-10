@@ -15,15 +15,15 @@ I’m originally from Manta Potrero, a small town in Paraguay. I began my agricu
 ## Education
 
 
-### Ph.D. Candidate in Agronomy - Soil Science  *(Kansas State University — Expected 2025)*
+### Ph.D. Candidate in Agronomy - Soil Science  *(Kansas State University — Expected 2026)*
 **Dissertation**: “Assessing Phosphorus Management Strategies to Enhance Crop Production”  
 **Graduate Certificate**: Applied Statistics  
 **Advisor**: Dorivar Ruiz Diaz  
 **Committee**: Ganga Hettiarachchi, Nathan Nelson, Christopher Valh
 
 
-### M.Sc. (Student) in Statistics - Data Science and Analytics  *(Kansas State University — Expected 2025)*
-**Report title**: “Bayesian Model Averaging Approach to Improve Fertilizer Recommendations”  
+### M.Sc. (Student) in Statistics - Data Science and Analytics  *(Kansas State University — Expected 2026)*
+**Report title**: “Model Averaging to Improve Optimum Rate and Critical Soil Test under Model Uncertainty”  
 **Advisor**: Christopher Valh  
 **Committee**: Trevor Hefley, Josefina Lacasa, Dorivar Ruiz Diaz
 
@@ -156,5 +156,13 @@ Courses: Crop Production · Food Access · The Value of Systems Thinking
 - Soil Science Society of America (SSSA) since 2019–present
 - Soil and Water Conservation Society (SWCS) since 2022–present  
 - International Society of Precision Agriculture (ISPA) since 2023–present
+- American Statistical Association (ASA) since 2025-present
 
+---
+
+## Service to the Profession
+
+- Judge for the Practices to Reduce Nutrient Loss and Improve Environmental Quality oral competition, **Environmental Quality Community**, CANVAS, Salt Lake City, UT, 2025.
+- Reviewer for the Journal of Soil and Water Conservation, **Soil and Water Conservation Society (SWCS)**, 2024–2025.
+- Student moderator, 78th **SWCS** International Annual Conference, Des Moines, IA, 2023.
 

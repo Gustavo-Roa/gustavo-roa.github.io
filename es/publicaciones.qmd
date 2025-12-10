@@ -23,14 +23,15 @@ format: html
 ------------------------------------------------------------------------
 
 ### En Proceso
-
-• **Roa, G.A.**, Wanithunga, I., de Oliviera, J. B., Rice, C.W. and Ruiz Diaz, D.A. 2025 (En preparación) Aplicación de metodologías isotópicas con Nitrogeno 15 en investigaciones agronómicas: Perspectivas prácticas y estudios de caso \[Ingles\]. Agricultural Systems.\
-• **Roa, G.A.** and Ruiz Diaz, D.A. 2025 (En preparación) Evaluación de la respuesta al azufre, eficiencia de uso y herramientas diagnósticas en maíz \[Ingles\]. Agronomy Journal.\
-• **Roa, G.A.**, Hefley, T.J., Vahl, C.I. and Ruiz Diaz, D.A. 2025 (En preparación) Un enfoque práctico para analizar datos agrícolas de largo plazo utilizando modelos mixtos lineales y aditivos generalizados \[Ingles\]. Plant Methods.
+• **Roa, G.A.** and Ruiz Diaz, D.A. 2025 (Bajo revisión) Evaluación de la respuesta del \[Ingles\]. Agronomy Journal.\
+• **Roa, G.A.**, Wanithunga, I., de Oliviera, J. B., Rice, C.W. and Ruiz Diaz, D.A. 2025 (En preparación) Técnicas de marcaje con nitrógeno-15 para la investigación agronómica: Directrices prácticas y estudios de caso \[Ingles\]. Agricultural Systems.\
 
 
-## Informes de investigación
 
+
+## Publicaciones de extensión y divulgación
+•	Xin, X., Nepal, J., de Oliveira, J., **Roa, G.**, Cominelli, S. y Maryam, H. 2025. “Gestión del nitrógeno del suelo para la productividad y la sostenibilidad: Comprensión de las ganancias y las pérdidas” [Ingles] CSA News, Vol. 70(12), noviembre.
+•	Cruz, P., de Oliveira, J., Barra Netto-Ferreira, J., **Roa, G.A.** y Gadhiparti, V. 2025. “Arraigados en la resiliencia: Agricultura regenerativa y el futuro de los sistemas alimentarios” [Ingles] CSA News, Vol. 70(8), agosto.
 • **Roa, Gustavo A.** y Ruiz Díaz, Dorivar A. (2023). “Evaluación del impacto de la aplicación de fósforo a largo plazo en la rotación maíz-soja bajo un sistema de labranza mínima.” \[Ingles\] Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. <https://doi.org/10.4148/2378-5977.8545>\
 • **Roa, Gustavo A.**; Rutter, Edmond B.; y Ruiz Díaz, Dorivar A. (2023). “Evaluación del análisis de tejido vegetal para determinar el estado nutricional de fósforo en maíz y soja.” \[Ingles\] Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. <https://doi.org/10.4148/2378-5977.8548>\
 • **Roa-Acosta, G. A.** y Ruiz Díaz, D. A. (2022). “Evaluación de métodos de extracción de fósforo en suelos y análisis de tejido vegetal en maíz.” \[Ingles\] Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. <https://doi.org/10.4148/2378-5977.8347>\
@@ -45,8 +46,10 @@ format: html
 
 
 ## Conferencias
-#### Total (14)
-
+#### Total (17)
+•	**Roa, G.A.**, y Ruiz Diaz, D.A. (2025). Nivel crítico de fósforo en el suelo para el cultivo de maíz: Actualizaciones y comparación de métodos en Kansas\[Ingles\]. 55th North Central Soil Fertility Conference. Noviembre de 2025, Des Moines, IA.
+•	**Roa, G.A.**, Spooner, J., Hefley, T. y Ruiz Diaz, D.A. (2025). Mejora de los estudios de correlación y calibración de fósforo mediante enfoques bayesianos\[Ingles\]. CANVAS. Noviembre de 2025, Salt Lake City, UT.
+•	**Roa, G.A.**, y Ruiz Diaz, D.A. (2025). Perfeccionamiento de las recomendaciones de fósforo en el suelo para el cultivo de maíz en Kansas \[Ingles\]. CANVAS. Noviembre de 2025, Salt Lake City, UT.
 • Leiva, J.C., **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Eficiencia de diferentes estrategias de gestión del nitrógeno en la producción de trigo de invierno \[Ingles\]. 2024 Nitrogen Use Efficiency Workshop. Augusto 2024, University of Illinois Urbana Champaign, IL.\
 • **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Mejora de la gestión de nutrientes de fósforo en el maíz mediante análisis de tejidos y herramientas de diagnóstico. ISPA 16th International Conference on Precision Agriculture \[Ingles\]. Julio 2024, Manhattan, KS.\
 • **Roa, G.A.** and Ruiz Diaz, D.A. (2024). Evaluación de la gestión del fósforo a largo plazo: un estudio de campo de 18 años \[Ingles\]. SSSA Bouyoucos Summer Conference. Junio 2024, San Juan, Puerto Rico.\

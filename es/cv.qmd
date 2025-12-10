@@ -8,7 +8,7 @@ page-layout: full
 
 <p style="font-size: 0.9em; color: #777;">
   CV ÚLTIMA ACTUALIZACIÓN <br>
-  <strong>8 de agosto de 2025</strong>
+  <strong>8 de Diciembre de 2025</strong>
 </p>
 
 <div style="text-align: center; margin-bottom: 1em;">
