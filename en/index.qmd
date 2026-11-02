@@ -15,7 +15,9 @@ format:
 
 # 👋 Welcome
 
-I’m **Gustavo Roa**, a Ph.D. candidate in Agronomy at Kansas State University, focusing on soil fertility and nutrient management. My research explores phosphorus and sulfur fertilizer strategies in corn, soybean, wheat, and sorghum using field trials, greenhouse studies, and isotopic tracer techniques (¹⁵N). I complement my agronomic training with a strong foundation in applied statistics and data analysis.
+I’m **Gustavo Roa**, a Postdoctoral Researcher in Agronomy at Kansas State University, specializing in soil fertility, nutrient management, and nutrient use efficiency. My work combines field and greenhouse research to understand crop responses to fertilizer and improve nutrient management. I also mentor students and help coordinate research projects.
+
+With an M.S. in Statistics, I connect agricultural research with data analysis and statistical methods. I provide statistical consulting, supporting researchers with experimental design, data analysis, and interpretation of results. I also explore applications of artificial intelligence to research and data analysis.
 
 [Publications](publications.qmd){.btn .btn-primary .me-2}
 [Digital Resources](resources.qmd){.btn .btn-outline-primary .me-2}
@@ -30,7 +32,7 @@ I’m **Gustavo Roa**, a Ph.D. candidate in Agronomy at Kansas State University,
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.callout}
 📄 **Latest paper**  
-Evaluation of tissue P concentration as a diagnostic tool in corn.  
+Bayesian inference for agronomic response models: Application to critical soil test value estimation.
 [See publications](publications.qmd){.btn .btn-sm .btn-outline-primary}
 :::
 :::

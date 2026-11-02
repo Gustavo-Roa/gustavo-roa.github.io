@@ -11,10 +11,13 @@ format:
 
 ## Articles
 ### Peer-Reviewed
+- **Roa, G. A.**, Spooner, J. L., Kerns, A. W., Hefley, T. J., & Ruiz Diaz, D. A. (2026). Bayesian inference for agronomic response models: Application to critical soil test value estimation. *Agricultural & Environmental Letters*, e70106. <https://doi.org/10.1002/ael2.70106>
 
-- **Roa, G. A.**, & Ruiz Diaz, D.A. (2025). *Evaluation of tissue phosphorus concentrations as diagnostic tool for phosphorus nutrition in corn.* *Soil Science Society of America Journal*, 89, 70031. <https://doi.org/10.1002/saj2.70031>
+- **Roa, G. A.**, & Ruiz Diaz, D. A. (2026). Assessing corn response to sulfur fertilization in Kansas: Efficiency, optimum rate, and diagnostic tools. *Agronomy Journal*, 118, e70337. <https://doi.org/10.1002/agj2.70337>
 
-- **Roa, G.A.**, Quintana-Obregón, E.A., González-Renteria, M., Ruiz Diaz, D.A. (2024). *Increasing Wheat Protein and Yield through Sulfur Fertilization and Its Relationship with Nitrogen.* *Nitrogen*, 5(3), 553–571. <https://doi.org/10.3390/nitrogen5030037>
+- **Roa, G. A.**, & Ruiz Diaz, D.A. (2025). Evaluation of tissue phosphorus concentrations as diagnostic tool for phosphorus nutrition in corn. *Soil Science Society of America Journal*, 89, 70031. <https://doi.org/10.1002/saj2.70031>
+
+- **Roa, G.A.**, Quintana-Obregón, E.A., González-Renteria, M., Ruiz Diaz, D.A. (2024). Increasing Wheat Protein and Yield through Sulfur Fertilization and Its Relationship with Nitrogen. *Nitrogen*, 5(3), 553–571. <https://doi.org/10.3390/nitrogen5030037>
 
 ------------------------------------------------------------------------
 
@@ -25,24 +28,43 @@ format:
 ------------------------------------------------------------------------
 
 ### In Progress
+-   **Roa, G. A.**, Ruiz Diaz, D. A., Nelson, N. O., Hettiarachchi, G. M., & Vahl, C. I. (In Preparation, 2026). *Critical soil test values and fertilizer recommendations for multiple soil phosphorus tests in corn.*
 
-- **Roa, G.A.**, Ruiz Diaz, D.A. (Under-review, 2025).*Assessing Corn Response to Sulfur Fertilization in Kansas: Efficiency, Optimum Rate, and Diagnostic Tools* *Agronomy Journal.*
-- **Roa, G.A.**, Wanithunga, I., de Oliviera, J.B., Rice, C.W., Ruiz Diaz, D.A. (In Preparation, 2025). *Harnessing ¹⁵N Isotopic Tracer Methodology in Agronomy Research: Practical Insights and Case Studies.*
+-   **Roa, G. A.**, & Ruiz Diaz, D. A. (In Preparation, 2026). Soybean yield response differs between direct and residual phosphorus fertilization.
 
+-   **Roa, G. A.**, Vahl, C. I., Hefley, T. J., Lacasa, J., & Ruiz Diaz, D. A. (In Preparation, 2026). Model averaging for estimation of optimum rate and critical values under model uncertainty.
+
+-   **Roa, G.A.**, Wanithunga, I., de Oliviera, J.B., Rice, C.W., Ruiz Diaz, D.A. (In Preparation, 2026). *Harnessing ¹⁵N Isotopic Tracer Methodology in Agronomy Research: Practical Insights and Case Studies.*
 
 
 ## Extension and Outreach Publications
 
-- Xin, X., Nepal, J., de Oliveira, J. **Roa, G.**, Cominelli, S., and Maryam, H. 2025. “Managing soil N for productivity and sustainability: Understanding gains and losses” CSA News, Vol. 70(12), November.
-- Cruz, P., de Oliveira, J., Barra Netto-Ferreira, J., **Roa, G.A.**, Gadhiparti, V. 2025. “Rooted in Resilience: Regenerative Agriculture and the Future of Food Systems” CSA News, Vol. 70(8), August. 
-- **Roa, G.A.** and Ruiz Diaz, Dorivar A. (2023) "Evaluating the Impact of Long-Term Phosphorus Placement on Corn and Soybean Rotation under Minimum Tillage System" Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. https://doi.org/10.4148/2378-5977.8545 
-- **Roa, G.A.**; Rutter, Edmond B.; and Ruiz Diaz, Dorivar A. (2023) "Evaluation of Plant Tissue Analysis to Assess Phosphorus Nutritional Status for Corn and Soybean" Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. https://doi.org/10.4148/2378-5977.8548 
-- **Roa-Acosta, G.A.** and Ruiz Diaz, D. A. (2022) "Evaluation of Soil Test Phosphorus Extractants and Tissue Analysis for Corn" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. https://doi.org/10.4148/2378-5977.8347 
-- **Roa-Acosta, G.A.** and Ruiz Diaz, D. A. (2022) "Early-Season Corn Response to Broadcast Pre-Plant Phosphorus Fertilizer Application" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. https://doi.org/10.4148/2378-5977.8348 
+-   Cheruku, V.K.R., Comineli, S., **Roa, G.A.**, Park, A.N., and Das, A. 2026. “Cultivating artificial intelligence in agricultural research and production: Overview of applications and responsible use.” CSA News, Vol. 71(11), October 30.
+
+-   **Roa, G.A.** 2026. “Agriculture and statistics: How they shaped each other.” CSA News, Vol. 71(10), September 29.
+
+-   Sen, S., and **Roa, G.A.** 2026. “Integrating wheat and other small grains into the corn–soybean rotation.” CSA News, Vol. 71(9), August.
+
+-   **Roa, G.A.**, Rutter, E.B., Sohm, C.D., Cominelli, S., Demarco, J., Sivarathri, B.S, and Sumita, S. 2026. “Understanding the foundations of fertilizer recommendations” CSA News, Vol. 71(8), July.
+
+-   Sumita, S., Sivarathri, B.S, **Roa, G.A.**, and Demarco, J. 2026. “Diversified and environment-based crop rotation” CSA News, Vol. 71(6), May.
+
+-   Xin, X., Nepal, J., de Oliveira, J. **Roa, G.**, Cominelli, S., and Maryam, H. 2025. “Managing soil N for productivity and sustainability: Understanding gains and losses” CSA News, Vol. 70(12), November.
+
+-   Cruz, P., de Oliveira, J., Barra Netto-Ferreira, J., **Roa, G.A.**, Gadhiparti, V. 2025. “Rooted in Resilience: Regenerative Agriculture and the Future of Food Systems” CSA News, Vol. 70(8), August. 
+
+-   **Roa, G.A.** and Ruiz Diaz, Dorivar A. (2023) "Evaluating the Impact of Long-Term Phosphorus Placement on Corn and Soybean Rotation under Minimum Tillage System" Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. https://doi.org/10.4148/2378-5977.8545 
+
+-   **Roa, G.A.**; Rutter, Edmond B.; and Ruiz Diaz, Dorivar A. (2023) "Evaluation of Plant Tissue Analysis to Assess Phosphorus Nutritional Status for Corn and Soybean" Kansas Agricultural Experiment Station Research Reports: Vol. 9: Iss. 8. https://doi.org/10.4148/2378-5977.8548 
+
+-   **Roa-Acosta, G.A.** and Ruiz Diaz, D. A. (2022) "Evaluation of Soil Test Phosphorus Extractants and Tissue Analysis for Corn" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. https://doi.org/10.4148/2378-5977.8347 
+
+-   **Roa-Acosta, G.A.** and Ruiz Diaz, D. A. (2022) "Early-Season Corn Response to Broadcast Pre-Plant Phosphorus Fertilizer Application" Kansas Agricultural Experiment Station Research Reports: Vol. 8: Iss. 9. https://doi.org/10.4148/2378-5977.8348 
 
 
 ## Thesis
-
+-   **Roa Acosta, Gustavo A.** 2026. “Advances in Phosphorus Management and Fertilizer Recommendations for Crop Production” Ph.D. Dissertation, Kansas State University, Manhattan, Kansas.
+-   **Roa Acosta, Gustavo A.** 2026. “Model averaging for estimation of optimum rate and critical values under model uncertainty”. Master of Science, Kansas State University, Manhattan, Kansas.
 -   **Roa Acosta, Gustavo A.** 2024. “Evaluating diagnostic tools for phosphorus and sulfur management in corn”. Master of Science, Kansas State University, Manhattan, Kansas.
 -   **Roa Acosta, Gustavo A.** 2024. “Application of sulfur in wheat cultivation (Triticum aestivum): its importance for food security” \[Spanish\]. Master’s in Food Security, UnADM, Mexico.
 -   **Roa Acosta, G.A.** 2017. “Development of a mobile application (App) for the design and sizing of biodigesters” \[Spanish\]. Graduation Project. EARTH University, Guacimo, Costa Rica.
@@ -50,8 +72,8 @@ format:
 
 
 ## Conferences
-#### Total (17)
-
+#### Total (18)
+-   **Roa, G.A.**, Vahl, C.I., Hefley, T.J., Lacasa, J. and Ruiz Diaz, D.A. (2026). Model averaging for estimation of optimum rate and critical values under model uncertainty. Applied Statistics in Agriculture and Natural Resources. May 2026, Lincoln, NE.
 -   **Roa, G.A.**, and Ruiz Diaz, D.A. (2025). Critical Soil Test Phosphorus for Corn: Updates and Method Comparison in Kansas. 55th North Central Soil Fertility Conference. November 2025, Des Moines, IA.
 -   **Roa, G.A.**, Spooner, J., Hefley, T. and Ruiz Diaz, D.A. (2025). Improving Phosphorus Correlation and Calibration Studies with Bayesian Approaches.  CANVAS. November 2025, Salt Lake City, UT.
 -   **Roa, G.A.**, and Ruiz Diaz, D.A. (2025). Refining Soil Test Phosphorus Recommendations for Corn in Kansas. CANVAS. November 2025, Salt Lake City, UT.
@@ -72,7 +94,9 @@ format:
 -   **Roa, G.A.**, Samudio, L.F., Bonini, C.A., and Ruiz Diaz, D.A. (2020). Soil microbial properties with changes in surface soil pH in a long-term no-till system. ASA, CSSA, SSSA International Conference. October 2020, Virtual.
 
 
-## Invited Talks
+## Invited Talks and Workshops
+
+-   **Roa, G.A.** (2026, September 9). Applied Statistics in R: From Data to Results. Workshop organized and led during the Essential Overlaps for Crop Improvement symposium, Kansas State University, Manhattan, KS
 
 -   **Roa, G.A.** (2024, December 5). Comprehensive soil management: research on fertilization, nutritional diagnostics, and prediction \[Spanish\]. Invited speaker at the World Soil Day Commemoration. Organized by IAAS Paraguay; SOPACIS; Fertimax; and the Faculty of Agricultural Sciences – UNA, San Lorenzo Campus, Paraguay.
 

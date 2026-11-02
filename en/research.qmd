@@ -8,7 +8,9 @@ format:
 
 # Research Focus
 
-My research integrates field experimentation, greenhouse studies, and isotope tracer techniques to improve fertilizer recommendations and nutrient diagnostics in cropping systems. I work at the intersection of agronomy, soil chemistry, and data science to enhance phosphorus and sulfur use efficiency in corn, soybean, wheat, and sorghum systems in Kansas and beyond.
+My research combines field experimentation, greenhouse studies, and statistical modeling to improve fertilizer recommendations, nutrient diagnostics, and nutrient use efficiency. I focus on nitrogen, phosphorus and sulfur management in corn, soybean, wheat, and sorghum cropping systems.
+
+I also investigate Bayesian methods, spacial statistics, and applications of artificial intelligence to analyze agricultural data, quantify uncertainty, and support agriculture management decisions.
 
 ## At a glance
 :::: {.grid}

@@ -17,6 +17,14 @@ Kansas Fertilizer Recommendation Tool.
 [Open app](https://ksusoiltesting.shinyapps.io/FertRecKS_App-R-v2/){.btn .btn-primary .btn-sm}
 :::
 :::
+
+::: {.g-col-6}
+::: {.callout}
+🌽 **Corn P KS**  
+Kansas Corn Phosphorus Explorer.  
+[Open app](https://gustavo-roa.shinyapps.io/Corn_P_app/){.btn .btn-primary .btn-sm}
+:::
+:::
 ::::
 
 ## Open Data

@@ -8,26 +8,24 @@ format:
 
 # About Me
 
-I’m originally from Manta Potrero, a small town in Paraguay. I began my agricultural career at the San Francisco Agricultural School in Cerrito, Paraguay. Since then, I have earned degrees from EARTH University in Costa Rica, UnADM in Mexico (On line), and Kansas State University in the United States. Along this journey, I have learned from and contributed to a variety of agricultural projects across regions.
+I’m originally from Manta Potrero, a small town in Paraguay. I began my agricultural career at the San Francisco Agricultural School in Cerrito, Paraguay. Since then, I have earned degrees from EARTH University in Costa Rica, UnADM in Mexico (On-line), and Kansas State University in the United States. Along this journey, I have learned from and contributed to a variety of agricultural projects across regions.
 
 ---
 
 ## Education
 
-
-### Ph.D. Candidate in Agronomy - Soil Science  *(Kansas State University — Expected 2026)*
-**Dissertation**: “Assessing Phosphorus Management Strategies to Enhance Crop Production”  
+### Ph.D. in Agronomy *(Kansas State University — 2026)*
+**Dissertation**: “Advancing phosphorus management and fertilizer recommendations for crop production”  
 **Graduate Certificate**: Applied Statistics  
 **Advisor**: Dorivar Ruiz Diaz  
 **Committee**: Ganga Hettiarachchi, Nathan Nelson, Christopher Valh
 
-
-### M.Sc. (Student) in Statistics - Data Science and Analytics  *(Kansas State University — Expected 2026)*
+### M.Sc. in Statistics - Data Science and Analytics  *(Kansas State University — 2026)*
 **Report title**: “Model Averaging to Improve Optimum Rate and Critical Soil Test under Model Uncertainty”  
 **Advisor**: Christopher Valh  
 **Committee**: Trevor Hefley, Josefina Lacasa, Dorivar Ruiz Diaz
 
-### M.Sc. in Agronomy - Soil Science  *(Kansas State University — 2023)*
+### M.Sc. in Agronomy  *(Kansas State University — 2023)*
 **Thesis**: “Evaluating diagnostic tools for phosphorus and sulfur management in corn”  
 **Advisor**: Dorivar Ruiz Diaz  
 **Committee**: Ganga Hettiarachchi, Nathan Nelson, Christopher Valh
@@ -86,19 +84,38 @@ Courses: Crop Production · Food Access · The Value of Systems Thinking
 :::: {.grid}
 ::: {.g-col-6}
 ::: {.callout}
-🧪 **Graduate Research Assistant** *(Jan 2021 – Present)*  
-- Led multidisciplinary research on phosphorus (P) and sulfur (S) management: calibration, residual P effects, long-term placement, and P & S interactions.  
-- Managed over 40 site-years with farmers and university fields; supervised interns and coordinated nutrient studies on corn, soybean, wheat, and sorghum.  
-- Analyzed datasets and contributed to peer-reviewed publications and conference presentations.
+📊 **Postdoctoral Research Associate** *(Sep 2026 – Present)*  
+- Advise on statistical analysis and the selection of appropriate methods for research projects across diverse areas of agriculture.
+
+- Analyze and interpret complex datasets using applied statistics, statistical modeling, and programming to support research and decision-making.
+
+- Evaluate model performance and synthesize evidence across experiments to develop data-driven recommendations.
+
+- Support the planning and development of research projects, contributing to scientific publications, technical reports, and communication of results to researchers and agricultural professionals.
+:::
+:::
+
+::: {.g-col-6}
+::: {.callout}
+🧪 **Graduate Research Assistant** *(Jan 2021 – Aug 2026)*  
+- Led multidisciplinary research on phosphorus (P) and sulfur (S) management, including P correlation and calibration, residual P effects, long-term P placement, and P and S interactions.
+
+- Established and managed more than 50 site-years across corn, soybean, wheat, and sorghum in collaboration with farmers and university extension programs; supervised student interns and coordinated field research activities.
+
+- Designed experiments and analyzed multi-site and multi-environment datasets using statistical modeling to evaluate crop responses, treatment effects, and nutrient management strategies.
+
+- Developed reproducible statistical analyses and data visualizations for scientific publications, technical reports, and presentations at professional conferences.
 :::
 :::
 
 ::: {.g-col-6}
 ::: {.callout}
 🔬 **Research Assistant** *(Jul 2019 – Dec 2020)*  
-- Assisted with fertility trials, greenhouse experiments, and isotopic studies using ¹⁵N tracers.  
-- Managed sample processing and ensured data accuracy.  
-- Operated research equipment including planting and fertilizer application systems.
+- Assisted in setting up and maintaining fertility trials, testing company products, and overseeing greenhouse studies, including sulfur and nitrogen use with N15 isotope tracers.
+
+- Managed sample handling and processing, ensuring accuracy and consistency in data collection.  
+
+- Operated and maintained research equipment, including planting, tractor operations, fertilizer, and herbicide application.
 :::
 :::
 ::::
@@ -135,7 +152,7 @@ Courses: Crop Production · Food Access · The Value of Systems Thinking
 ## Leadership & Service
 
 - 2025–present • Member, ASA CSSA SSSA Graduate Student Committee  
-- 2024–2024 • Graduate Student Representative, College of Agriculture Committee on Planning  
+- 2024–2026 • Graduate Student Representative, College of Agriculture Committee on Planning  
 - 2023–2025 • GSC/SGA Liaison, Kansas State University  
 - 2023–2024 • Member, College of Ag Graduate Student Advisory Committee
 - 2021–2024 • Spanish course instructor (Volunteer) — UFM Community Learning Center
@@ -162,7 +179,9 @@ Courses: Crop Production · Food Access · The Value of Systems Thinking
 
 ## Service to the Profession
 
-- Judge for the Practices to Reduce Nutrient Loss and Improve Environmental Quality oral competition, **Environmental Quality Community**, CANVAS, Salt Lake City, UT, 2025.
+- Reviewer for the Agronomy Journal, **American Society of Agronomy (ASA)**, 2026.
+- Reviewer for the Agrosystems, Geosciences & Environment Journal, **American Society of Agronomy (ASA) and Crop Science Society of America (CSSA)**, 2026.
+Judge for the Practices to Reduce Nutrient Loss and Improve Environmental Quality oral competition, **Environmental Quality Community**, CANVAS, Salt Lake City, UT, 2025.
 - Reviewer for the Journal of Soil and Water Conservation, **Soil and Water Conservation Society (SWCS)**, 2024–2025.
 - Student moderator, 78th **SWCS** International Annual Conference, Des Moines, IA, 2023.
 
